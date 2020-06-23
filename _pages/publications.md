@@ -8,11 +8,17 @@ author_profile: true
 
 ---
 ## 2020
-* <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
+* <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
+* <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
+<b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>under review</i>.<br>
+
+* <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
+<b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>under review</i>.<br>
+
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
-<b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
+<b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
 
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
 Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
