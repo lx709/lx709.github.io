@@ -8,6 +8,12 @@ author_profile: true
 
 ---
 ## 2020
+* <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
+Ruonna Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>under review</i>.<br>
+
+* <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
+Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
+
 * <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
 
@@ -33,10 +39,7 @@ Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>arxiv</i>.
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 
 * <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
-Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>arxiv</i>.<br>
-
-* <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
-Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020</i>.<br>
+Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
 
 * <b>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification</b>. <br>
 <b>Xiang Li</b>, Lingjing Wang, Mingyang Wang, Congcong Wen, Nan Zhou, Yi Fang. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br>
