@@ -9,7 +9,7 @@ author_profile: true
 ---
 ## 2020
 * <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
-Ruonna Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>under review</i>.<br>
+Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>under review</i>.<br>
 
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
 Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
