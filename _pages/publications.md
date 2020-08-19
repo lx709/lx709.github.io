@@ -20,9 +20,6 @@ Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
 * <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>under review</i>.<br>
 
-* <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
-<b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>under review</i>.<br>
-
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
 
@@ -37,6 +34,9 @@ Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>arxiv</i>.
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
+
+* <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
+<b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>GRSL accepted</i>.<br>
 
 * <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
 Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
