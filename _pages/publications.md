@@ -39,7 +39,7 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 <b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>GRSL accepted</i>.<br>
 
 * <b>Robust Image Matching By Dynamic Feature Selection</b>. <br>
-Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>BMVC accepted</i>.<br>
+Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>British Machine Vision Conference (BMVC) 2020, accepted</i>.<br>
 
 * <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
 Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
