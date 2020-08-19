@@ -32,14 +32,14 @@ Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under re
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
-* <b>Robust Image Matching By Dynamic Feature Selection</b>. <br>
-Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>arxiv</i>.<br>
-
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 
 * <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
 <b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>GRSL accepted</i>.<br>
+
+* <b>Robust Image Matching By Dynamic Feature Selection</b>. <br>
+Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>BMVC accepted</i>.<br>
 
 * <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
 Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
