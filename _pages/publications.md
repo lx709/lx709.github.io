@@ -23,6 +23,9 @@ Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
 * <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
 
+* <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
+Congcong Wen, <b>Xiang Li</b>, X Yao, L Peng, T Chi. <i>arXiv preprint arXiv:2004.09057</i>.<br>
+
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
 Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
