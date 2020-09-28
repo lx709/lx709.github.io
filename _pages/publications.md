@@ -8,9 +8,6 @@ author_profile: true
 
 ---
 ## 2020
-* <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
-Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>under review</i>.<br>
-
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
 Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
 
@@ -31,6 +28,9 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>arxiv</i>.<br>
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
+
+* <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
+Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>GRSL, accepted</i>.<br>
 
 * <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
 <b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>GRSL accepted</i>.<br>
