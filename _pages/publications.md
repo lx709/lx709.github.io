@@ -28,10 +28,10 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
 
 * <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
-Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>GRSL, accepted</i>.<br>
+Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), accepted</i>.<br>
 
 * <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
-<b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>GRSL accepted</i>.<br>
+<b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters(GRSL) accepted</i>.<br>
 
 * <b>Robust Image Matching By Dynamic Feature Selection</b>. <br>
 Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>British Machine Vision Conference (BMVC) 2020, accepted</i>.<br>
@@ -48,11 +48,11 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>ISPRS Journal of Photog
 [[Code]](https://https://github.com/lx709/DANCE-NET)
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
-<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics, 2020</i>.<br>
+<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics(TVCG), 2020</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9091324)
 
 * <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
-Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>CVPR 2020</i>.<br>
+Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2020</i>.<br>
 [[PDF]](https://paperswithcode.com/paper/few-shot-learning-of-part-specific)
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
@@ -77,17 +77,17 @@ Congcong Wen, Shufu Liu, Xiaojing Yao, Ling Peng, <b>Xiang Li</b>, Yuan Hu, Tian
 
 
 * <b>A Sample Update-Based Convolutional Neural Network Framework for Object Detection in Large-Area Remote Sensing Images</b>. <br>
-Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geoscience and Remote Sensing Letters , 2019</i>.<br>
+Yuan Hu, <b>Xiang Li</b>, Nan Zhou, Lina Yang, Ling Peng, Sha Xiao. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), 2019</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/8613920/)
 
 
 * <b>Arbicon-Net: Arbitrary Continuous Geometric Transformation Networks for Image Registration</b>. <br>
-Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems, NeurIPS 2019</i>.<br>
+Jianchun Chen, Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>Advances in Neural Information Processing Systems(NeurIPS), 2019</i>.<br>
 [[PDF]](https://arxiv.org/abs/1908.06673)
 [[Code]](https://github.com/nyummvc/Arbicon-Net)
 
 * <b>Dynamic Feature Fusion for Semantic Edge Detection</b>. <br>
-Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>IJCAI 2018</i>.<br>
+Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>International Joint Conferences on Artificial Intelligence(IJCAI), 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1902.09104)
 
 * <b>Non-Rigid Point Set Registration Networks</b>. <br>
@@ -97,7 +97,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 ---
 ## 2018
 * <b>Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks</b>. <br>
-<b>Xiang Li</b>, Xiaojing Yao, Yi Fang. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018</i>.<br>
+<b>Xiang Li</b>, Xiaojing Yao, Yi Fang. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
 [[Code]](https://ieeexplore.ieee.org/document/8453267)
 
