@@ -25,7 +25,7 @@ Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under re
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
-Nan Zhou, <b>Xiang Li</b>, Tianjun Wu, Jiancheng Luo. <i>under review</i>.<br>
+Nan Zhou*, <b>Xiang Li*</b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), accepted</i>.<br>
 
 * <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
 Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), accepted</i>.<br>
