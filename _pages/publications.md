@@ -48,7 +48,7 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>ISPRS Journal of Photog
 [[Code]](https://https://github.com/lx709/DANCE-NET)
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
-<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics(TVCG), 2020</i>.<br>
+<b>Xiang Li*</b>, Congcong Wen*, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics(TVCG), 2020</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9091324)
 
 * <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
