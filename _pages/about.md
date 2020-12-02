@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://xiangli.ac.cn/files/cv/xiang.pdf))"
+title: "About me ([Curriculum Vitae](https://xiangli.ac.cn/files/xiang_en.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
