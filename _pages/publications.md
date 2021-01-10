@@ -8,21 +8,20 @@ author_profile: true
 
 ---
 ## 2020
-
-* <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
-<b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
-
-* <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
-<b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>under review</i>.<br>
-
-* <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
-<b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
-
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
 Lingjing Wang*, <b>Xiang Li*</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
+
+* <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
+<b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
+
+* <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
+<b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, major revision</i>.<br>
+
+* <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
+<b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing, accepted</i>.<br>
 
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
 Nan Zhou*, <b>Xiang Li*</b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), accepted</i>.<br>
