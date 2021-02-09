@@ -18,7 +18,7 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 <b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
 
 * <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
-<b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, major revision</i>.<br>
+<b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, accepted</i>.<br>
 
 * <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
 <b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing, accepted</i>.<br>
