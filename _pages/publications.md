@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[\* denotes equal contribution]
+[# denotes equal contribution, * denotes corresponding author]
 
 ---
 ## 2020
@@ -21,7 +21,7 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 <b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, accepted</i>.<br>
 
 * <b>Few-shot Object Detection on Remote Sensing Images</b>. <br>
-<b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing, accepted</i>.<br>
+<b>Xiang Li<sup>#</sup></b>, Jingyu Deng<sup>#</sup>, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing, accepted</i>.<br>
 
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
 Nan Zhou<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), accepted</i>.<br>
@@ -55,7 +55,7 @@ Lingjing Wang<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yi Fang. <i>IEEE Confere
 [[PDF]](https://paperswithcode.com/paper/few-shot-learning-of-part-specific)
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
-Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
+Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b><i class="icon-envelope-square"></i>, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020</i>.<br> 
 [[PDF]](https://authors.elsevier.com/a/1abO93I9x1cfvT)
 [[Code]](https://https://github.com/lx709/D-FCN)
 
@@ -107,7 +107,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0360544218301117)
 
 * <b>基于全卷积网络的高分辨遥感影像目标检测</b>. <br>
-徐逸之, 姚晓婧, <b>李祥(corresponding author)</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
+徐逸之, 姚晓婧, <b>李祥*</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
 
 ---
 ## 2017
