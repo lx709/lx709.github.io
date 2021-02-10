@@ -9,7 +9,7 @@ author_profile: true
 ---
 ## 2020
 * <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang<sup>#, <b>Xiang Li<sup>#</b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+Lingjing Wang<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
