@@ -20,8 +20,8 @@ My research interests lie in computer vision, deep learning, remote sensing imag
 
 Education
 ======
-* B.S., Wuhan University, 2014
-* Ph.D, Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2019
+* B.S., Wuhan University, 2010-2014.
+* Ph.D, Inistitute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2019.
 
 Work experience
 ======
