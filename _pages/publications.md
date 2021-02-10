@@ -24,10 +24,10 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 <b>Xiang Li</b>, Jingyu Deng, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing, accepted</i>.<br>
 
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
-Nan Zhou*, <b>Xiang Li*</b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), accepted</i>.<br>
+Nan Zhou<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), accepted</i>.<br>
 
 * <b>Road Extraction from Remote Sensing Images in Wildland-Urban Interface Areas</b>. <br>
-Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), accepted</i>.<br>
+Ruonan Chen<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yuan Hu, Ling Peng. <i>IEEE Geoscience and Remote Sensing Letters(GRSL), accepted</i>.<br>
 
 * <b>Height estimation from single aerial images using a deep ordinal regression network</b>. <br>
 <b>Xiang Li</b>, Mingyang Wang, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters(GRSL) accepted</i>.<br>
@@ -36,7 +36,7 @@ Ruonan Chen*, <b>Xiang Li*</b>, Yuan Hu, Ling Peng. <i>IEEE Geoscience and Remot
 Hao Huang, Jianchun Chen, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>British Machine Vision Conference (BMVC) 2020, accepted</i>.<br>
 
 * <b>3DMotion-Net: Learning Continuous Flow Function for 3D Motion Prediction</b>. <br>
-Shuiahang Yuan*, <b>Xiang Li*</b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
+Shuiahang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yi Fang. <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020, accepted</i>.<br>
 
 * <b>Airborne LiDAR Point Cloud Classification with Graph Attention Convolution Neural Network</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>ISPRS Journal of Photogrammetry and Remote Sensing, 2020, accepted</i>.<br>
@@ -47,11 +47,11 @@ Congcong Wen, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>ISPRS Journal of Photog
 [[Code]](https://https://github.com/lx709/DANCE-NET)
 
 * <b>Topology Constrained Shape Correspondence</b>. <br>
-<b>Xiang Li*</b>, Congcong Wen*, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics(TVCG), 2020</i>.<br>
+<b>Xiang Li<sup>#</sup></b>, Congcong Wen<sup>#</sup>, Lingjing Wang, Yi Fang. <i>IEEE Transactions on Visualization and Graphics(TVCG), 2020</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9091324)
 
 * <b>Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation</b>. <br>
-Lingjing Wang*, <b>Xiang Li*</b>, Yi Fang. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2020</i>.<br>
+Lingjing Wang<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yi Fang. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2020</i>.<br>
 [[PDF]](https://paperswithcode.com/paper/few-shot-learning-of-part-specific)
 
 * <b>Directionally Constrained Fully Convolutional Neural Network For Airborne Lidar Point Cloud Classification</b>. <br>
@@ -62,7 +62,7 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li (corresponding author)</b><i cla
 ---
 ## 2019
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
-<b>Xiang Li\*</b>, Lingjing Wang\*, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
+<b>Xiang Li<sup>#</sup></b>, Lingjing Wang<sup>#</sup>, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 
 * <b>Cross-Safe: A computer vision-based approach to make all intersection-related pedestrian signals accessible for the visually impaired</b>. <br>
