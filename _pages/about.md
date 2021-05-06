@@ -28,8 +28,8 @@ Work experience
 * Fall 2019: Postdoc Associate
   * New York University, Abu Dhabi
   * Cooperator: Yi Fang, Lingjing Wang
-* Journal Review: ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Geoscience and Remote Sensing Letters (GRSL), Pattern Recognition Letters (PRL), Computational Intelligence and Neuroscience, IEEE ACCESS.
-* Conference Review: BMVC2020, ICCV2021
+* Journal Review: ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS J. P&RS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), Pattern Recognition Letters (PRL), Computational Intelligence and Neuroscience, IEEE ACCESS.
+* Conference Review: BMVC 2020, ICCV 2021, IROS 2021.
 
 Honors and Awards
 ======
