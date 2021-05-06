@@ -8,14 +8,17 @@ author_profile: true
 
 ---
 ## 2020
-* <b>Arbitrary Continuous Geometric TransformationNetworks for Image Registration</b>. <br>
-Lingjing Wang<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Hao Huang, Jianchun Chen, Yi Fang. <i>under review</i>.<br>
+* <b>DeepTracking-Net: 3D Tracking with Unsupervised Learning of Continuous Flow</b>. <br>
+Shuaihang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yi Fang. <i>under review</i>.<br>
+
+* <b>Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes</b>. <br>
+<b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
+
+* <b>Unsupervised Partial Point Set Registration via Joint Shape Completion and Registration</b>. <br>
+<b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
-
-* <b>Few-shot Segmentation of Remote Sensing Images</b>. <br>
-<b>Xiang Li</b>, Fred Lu, Yi Fang. <i>under review</i>.<br>
 
 * <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, accepted</i>.<br>
