@@ -29,7 +29,7 @@ Work experience
   * New York University, Abu Dhabi
   * Cooperator: Yi Fang, Lingjing Wang
 * Journal Review: ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS J. P&RS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), Pattern Recognition Letters (PRL), Computational Intelligence and Neuroscience, IEEE ACCESS.
-* Conference Review: BMVC 2020, ICCV 2021, IROS 2021.
+* Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021.
 
 Honors and Awards
 ======
