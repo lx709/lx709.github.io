@@ -33,7 +33,7 @@ Activities
 ======
 * Journal Review: ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS J. P&RS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), Pattern Recognition Letters (PRL), Computational Intelligence and Neuroscience, IEEE ACCESS.
 * Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021.
-* Guest Editor of the special issue "3D Computer Vision" of the journal "Frontiers in Computer Science "
+* Guest Editor of the special issue "3D Computer Vision (https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science"
 
 Honors and Awards
 ======
