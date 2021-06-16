@@ -20,6 +20,9 @@ Shuaihang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Yi Fang. <i>under revie
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 
+* <b>Accurate and efficient solution of electromagnetic scattering from randomly rough surface using MoM-SMCG with adaptive quadrature</b>. <br>
+Yanlei Du, Junjun Yin, <b>Xiang Li</b>, Fan Gao, Jian Yang. <i>Electronics Letters</i>.<br>
+
 * <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
 <b>Xiang Li</b>, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, accepted</i>.<br>
 
