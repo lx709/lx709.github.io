@@ -27,9 +27,13 @@ Work experience
 ======
 * Fall 2019: Postdoc Associate
   * New York University, Abu Dhabi
-  * Cooperator: Yi Fang, Lingjing Wang
+  * Cooperators: Yi Fang, Lingjing Wang
+
+Activities
+======
 * Journal Review: ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS J. P&RS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Geoscience and Remote Sensing Letters (IEEE GRSL), Pattern Recognition Letters (PRL), Computational Intelligence and Neuroscience, IEEE ACCESS.
 * Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021.
+* Guest Editor of the special issue "3D Computer Vision" of the journal "Frontiers in Computer Science "
 
 Honors and Awards
 ======
