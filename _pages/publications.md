@@ -8,6 +8,10 @@ author_profile: true
 
 ---
 ## 2023
+* <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
+Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2304.10592)
+
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transactions on Multimedia (TMM), accepted</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/iel7/6046/4456689/10094000.pdf)
