@@ -8,6 +8,10 @@ author_profile: true
 
 ---
 ## 2023
+* <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
+Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2305.05726)
+
 * <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
 Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2304.10592)
