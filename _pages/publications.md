@@ -25,11 +25,11 @@ Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>IEEE Conference on Compute
 [[PDF]](https://arxiv.org/abs/2304.02777)
 
 * <b>Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes</b>. <br>
-<b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>under review</i>.<br>
+<b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2107.02972)
 
 * <b>Unsupervised Learning of Global Registration of Temporal Sequence of Point Clouds</b>. <br>
-Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>under review</i>.<br>
+Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2006.12378)
 
 ## 2022
