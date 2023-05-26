@@ -13,7 +13,7 @@ Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxi
 [[PDF]](https://arxiv.org/abs/2305.05726)
 
 * <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
-Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i> (<b>20K starts in GitHub</b>).<br>
 [[PDF]](https://arxiv.org/abs/2304.10592)
 
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
@@ -21,7 +21,7 @@ Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transact
 [[PDF]](https://ieeexplore.ieee.org/iel7/6046/4456689/10094000.pdf)
 
 * <b>MoStGAN-V: Video Generation with Temporal Motion Styles</b>. <br>
-Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2023, accepted</i>.<br>
+Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2023</i>.<br>
 [[PDF]](https://arxiv.org/abs/2304.02777)
 
 * <b>Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes</b>. <br>
