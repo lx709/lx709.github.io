@@ -8,6 +8,9 @@ author_profile: true
 
 ---
 ## 2023
+* <b>RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision </b>. <br>
+<b>Xiang Li</b>, Congcong Wen, Nan Zhou. under review.
+
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
 Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, accepted.
 
