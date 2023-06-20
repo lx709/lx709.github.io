@@ -9,7 +9,7 @@ author_profile: true
 ---
 ## 2023
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
-Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, accepted.
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, accepted.
 
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
 Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
