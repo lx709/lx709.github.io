@@ -12,29 +12,10 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I joined KAUST as Postdoc Associate in Dec 2022. Before that, I was a Postdoc Associate at MMVC Lab, NYU Tandon, and NYU Abu Dhabi since 2019. I received my Bachelor’s degree in remote sensing science and technology from Wuhan University in 2014 and my Ph.D. degree in Cartography and GIS from the Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences in 2019. 
-
+I am a Postdoc Researcher at VisionCAIR lab, KAUST. Before that, I was a Postdoc Researcher at MMVC Lab, NYU Abu Dhabi since 2019. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. 
 
 # Research
 My research interests lie in computer vision and remote sensing.
-
-Education
-======
-* B.S., Wuhan University, 2010-2014.
-* Ph.D., Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, 2014-2019.
-
-Work experience
-======
-* 2022 -- present: Postdoc Associate, KAUST
-* 2019 -- 2022: Postdoc Associate, New York University, Abu Dhabi
-
-Activities
-======
-* Journal Review: 
-  * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, JARS, Sensors, AIRQ.
-  * TIP, TVCG, TEVC, TBD, NeuroComputing, PRL, Comput. Intell. Neurosci., IEEE ACCESS.
-* Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021, AAAI 2022, WACV 2022, CVPR 2022, ECCV 2022, ACCV 2022, BMVC 2022, WACV 2023, AAAI 2023, CVPR 2023, NuerIPS 2023.
-* Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
 
 Honors and Awards
 ======
@@ -49,13 +30,13 @@ Honors and Awards
 * National Scholarship, Wuhan University, 2011
 
 
-<!-- <style>
-table, td, th, tr {
-   border: none!important;
-   font-size: 14px;
-}
-</style>
- -->
+Academic Service
+======
+* Journal Review: 
+  * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, JARS, Sensors, AIRQ.
+  * TIP, TVCG, TEVC, TBD, NeuroComputing, PRL, Comput. Intell. Neurosci., IEEE ACCESS.
+* Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021, AAAI 2022, WACV 2022, CVPR 2022, ECCV 2022, ACCV 2022, BMVC 2022, WACV 2023, AAAI 2023, CVPR 2023, NuerIPS 2023.
+* Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
@@ -84,7 +65,7 @@ table, td, th, tr {
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/xxx.png" height="100%" width="100%" style="border-style: none">
+  <img src="../images/vlmrs.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
@@ -153,7 +134,7 @@ table, td, th, tr {
   </h3>
   Shuaihang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Hao Huang, Yi Fang.
   <br>
-  <em>ACCV</em>, 2022 (oral)
+  <em>ACCV</em>, 2022 (<b>oral</b>)
   <br>
   <div>
     <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
@@ -200,7 +181,7 @@ table, td, th, tr {
   <div>
     <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
     <a href="https://ieeexplore.ieee.org/document/9362267">[paper]</a>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a> -->
+    <a href="https://github.com/lixiang-ucas/FSODM">[code]</a>
     <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
   </div>  
 </td>
@@ -265,7 +246,7 @@ table, td, th, tr {
   <div>
     <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
     <a href="https://paperswithcode.com/paper/few-shot-learning-of-part-specific">[paper]</a>
-    <!-- <a href="https://github.com/lixiang-ucas/TP-Net">[code]</a> -->
+    <a href="https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation">[code]</a>
     <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
   </div>  
 </td>
