@@ -12,23 +12,18 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am a Postdoc Researcher at VisionCAIR lab, KAUST. Before that, I was a Postdoc Researcher at MMVC Lab, NYU Abu Dhabi since 2019. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. 
-
-# Research
-My research interests lie in computer vision and remote sensing.
+I am a Postdoc Researcher at VisionCAIR lab, KAUST. Before that, I was a Postdoc Researcher at MMVC Lab, NYU Abu Dhabi since 2019. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. My research interests lie in computer vision and remote sensing.
 
 Honors and Awards
 ======
 * Outstanding Reviewer for ICCV 2021.
-* Postdoc Non-travel Award, NYUAD 2021.
-* Postdoc Non-travel Award, NYUAD 2020.
+* Postdoc Non-travel Award, NYUAD 2020 & 2021.
 * National Scholarship, University of Chinese Academy of Sciences, 2018
 * Excellent research paper award, Institute of Remote Sensing and Digital Earth, CAS, 2018
 * China Scholarship Council scholarship, 2017
 * Presidential Foundation of RADI, 2017
 * Seagate Scholarship, Wuhan University, 2012
 * National Scholarship, Wuhan University, 2011
-
 
 Academic Service
 ======
@@ -49,6 +44,28 @@ table, td, th, tr {
 [# denotes equal contribution, * denotes corresponding author]
 <table cellspacing="0" cellpadding="0">
 
+
+
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/vlmrs.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
+  </h3>
+  Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu.
+  <br>
+  <em>under review</em>, 2023
+  <br>
+  <div>
+    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
+    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
+    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
+    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
+  </div>  
+</td>
+</tr> 
+
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
@@ -67,27 +84,6 @@ table, td, th, tr {
   </div>  
 </td>
 </tr>  
-
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/vlmrs.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
-  </h3>
-  Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu.
-  <br>
-  <em>International Journal of Applied Earth Observation and Geoinformation (JAG)</em>, 2023
-  <br>
-  <div>
-    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
-    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
-    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
 
 
 <tr>
