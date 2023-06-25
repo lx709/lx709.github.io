@@ -49,14 +49,17 @@ Honors and Awards
 * National Scholarship, Wuhan University, 2011
 
 
-<style>
+<!-- <style>
 table, td, th, tr {
    border: none!important;
    font-size: 14px;
 }
 </style>
+ -->
 
 <h2><span>Selected Publications</span></h2>
+[# denotes equal contribution, * denotes corresponding author]
+
 <table cellspacing="0" cellpadding="0">
 
 <tr>
@@ -78,26 +81,6 @@ table, td, th, tr {
 </td>
 </tr>  
 
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/xxx.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance.
-  </h3>
-  Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin.
-  <br>
-  <em>International Journal of Applied Earth Observation and Geoinformation (JAG)</em>, 2023
-  <br>
-  <div>
-    <!-- <a href="https://minigpt-4.github.io/">[project]</a>
-    <a href="https://arxiv.org/abs/2304.10592">[paper]</a>
-    <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a>
-    <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
