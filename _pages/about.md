@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am a Postdoc Researcher at VisionCAIR lab, KAUST. Before that, I was a Postdoc Researcher at MMVC Lab, NYU Abu Dhabi since 2019. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. My research interests lie in computer vision and remote sensing.
+I am a Postdoc Researcher at VisionCAIR lab, KAUST. Prior to joining KAIST at Dec 2022 I was a Postdoc Researcher at MMVC Lab, NYU Abu Dhabi. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. My research interests lie in computer vision and remote sensing.
 
 Honors and Awards
 ======
