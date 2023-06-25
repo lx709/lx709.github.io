@@ -38,9 +38,15 @@ Academic Service
 * Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021, AAAI 2022, WACV 2022, CVPR 2022, ECCV 2022, ACCV 2022, BMVC 2022, WACV 2023, AAAI 2023, CVPR 2023, NuerIPS 2023.
 * Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
 
+<style>
+table, td, th, tr {
+   border: none!important;
+   font-size: 14px;
+}
+</style>
+
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
-
 <table cellspacing="0" cellpadding="0">
 
 <tr>
@@ -111,7 +117,7 @@ Academic Service
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>GP-Aligner: Unsupervised Groupwise Non-Rigid Point Set Registration Based On Optimizable Group Latent Descriptor.
   </h3>
-  Lingjing Wang, Nan Zhou, Hao Huang, Jifei Wang, <b>Xiang Li*.
+  Lingjing Wang, Nan Zhou, Hao Huang, Jifei Wang, <b>Xiang Li*</b>.
   <br>
   <em>TGRS</em>, 2022
   <br>
