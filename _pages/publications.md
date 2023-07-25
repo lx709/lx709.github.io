@@ -19,7 +19,8 @@ Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>
 Faizan Khan, <b>Xiang Li</b>, Andrew Temple, Mohamed Elhoseiny. <i>Intertional Conference on Computer Vision (ICCV) 2023</i>, accepted.<br>
 
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
-Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023, accepted.
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843223002212)
 
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
 Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
