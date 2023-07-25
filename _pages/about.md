@@ -40,18 +40,11 @@ Academic Service
   * WACV 2022, 2023
 * Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
 
-<style>
-table, td, th, tr {
-   border: none!important;
-   font-size: 14px;
-}
-</style>
+
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
 <table cellspacing="0" cellpadding="0">
-
-
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
