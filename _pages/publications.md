@@ -30,7 +30,7 @@ Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journa
 Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i> (<b>>20K starts in GitHub</b>).<br>
 [[Project]](https://minigpt-4.github.io/)
 [[PDF]](https://arxiv.org/abs/2304.10592)
-[[Code]]([https://arxiv.org/abs/2304.10592](https://github.com/Vision-CAIR/MiniGPT-4))
+[[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
 
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transactions on Multimedia (TMM), accepted</i>.<br>
