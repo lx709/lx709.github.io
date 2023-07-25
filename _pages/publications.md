@@ -8,6 +8,10 @@ author_profile: true
 
 ---
 ## 2023
+* <b>RSGPT: A Remote Sensing Vision Language Model and Benchmark </b>. <br>
+Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2305.05726)
+
 * <b>RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision </b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Nan Zhou. under review.
 
@@ -23,7 +27,9 @@ Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxi
 
 * <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
 Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i> (<b>>20K starts in GitHub</b>).<br>
+[[Project]](https://minigpt-4.github.io/)
 [[PDF]](https://arxiv.org/abs/2304.10592)
+[[Code]]([https://arxiv.org/abs/2304.10592](https://github.com/Vision-CAIR/MiniGPT-4))
 
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
 Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transactions on Multimedia (TMM), accepted</i>.<br>
