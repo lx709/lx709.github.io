@@ -30,7 +30,14 @@ Academic Service
 * Journal Review: 
   * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, JARS, Sensors, AIRQ.
   * TIP, TVCG, TEVC, TBD, NeuroComputing, PRL, Comput. Intell. Neurosci., IEEE ACCESS.
-* Conference Review: BMVC 2020, ICCV 2021, IROS 2021, BMVC 2021, AAAI 2022, WACV 2022, CVPR 2022, ECCV 2022, ACCV 2022, BMVC 2022, WACV 2023, AAAI 2023, CVPR 2023, NuerIPS 2023.
+* Conference Review:
+  * CVPR 2022, 2023
+  * ICCV 2021, 2023
+  * ECCV 2022
+  * NeruIPS 2023
+  * AAAI 2022, 2023
+  * BMVC 2020, 2021, 2022
+  * WACV 2022, 2023
 * Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
 
 <style>
