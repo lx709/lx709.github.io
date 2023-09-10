@@ -35,7 +35,8 @@ Academic Service
   * ICCV 2021, 2023
   * ECCV 2022
   * NeruIPS 2023
-  * AAAI 2022, 2023
+  * ICLR 2024
+  * AAAI 2022, 2023, 2024
   * BMVC 2020, 2021, 2022
   * WACV 2022, 2023
 * Guest Editor of the special issue [["3D Computer Vision]](https://www.frontiersin.org/research-topics/23013/3d-computer-vision#overview)" of the journal "Frontiers in Computer Science".
