@@ -16,7 +16,7 @@ Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>
 <b>Xiang Li</b>, Congcong Wen, Nan Zhou. under review.
 
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
-Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
+<b>Xiang Li*</b><sup>#</sup>, Congcong Wen<sup>#</sup>, Yuan Hu<sup>#</sup>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2305.05726)
 
 * <b>FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction</b>. <br>
