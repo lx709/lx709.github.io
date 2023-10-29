@@ -19,7 +19,7 @@ Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>
 
 * <b>RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision </b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Nan Zhou. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.
-[[]](https://www.sciencedirect.com/science/article/pii/S1569843223003217)
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843223003217)
 
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
 <b>Xiang Li*</b><sup>#</sup>, Congcong Wen<sup>#</sup>, Yuan Hu<sup>#</sup>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
