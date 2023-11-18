@@ -49,7 +49,7 @@ Academic Service
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
+  <img src="../images/minigpt-v2.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
