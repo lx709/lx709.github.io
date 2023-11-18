@@ -45,25 +45,27 @@ Academic Service
 [# denotes equal contribution, * denotes corresponding author]
 <table cellspacing="0" cellpadding="0">
 
+
+
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/vlmrs.png" height="100%" width="100%" style="border-style: none">
+  <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
-  </h3>
-  Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu.
+  <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
+  Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
   <br>
-  <em>under review</em>, 2023
+  <em>arxiv</em>, 2023
   <br>
   <div>
-    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
-    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
-    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
+    <a href="https://minigpt-v2.github.io/">[project]</a>
+    <a href="https://arxiv.org/abs/2310.09478">[paper]</a>
+    <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a>
+    <a href="https://huggingface.co/spaces/Vision-CAIR/MiniGPT-v2">[huggingface demo]</a>
   </div>  
 </td>
-</tr> 
+</tr>  
+
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
@@ -84,6 +86,25 @@ Academic Service
 </td>
 </tr>  
 
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/rsvlm.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
+  </h3>
+  Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu.
+  <br>
+  <em>under review</em>, 2023
+  <br>
+  <div>
+    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
+    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
+    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
+    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
+  </div>  
+</td>
+</tr> 
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
