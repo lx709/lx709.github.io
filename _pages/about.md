@@ -52,8 +52,8 @@ Academic Service
   <img src="../images/minigpt-v2.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
-  Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
+  <h3>MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning.</h3>
+  Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny.
   <br>
   <em>arxiv</em>, 2023
   <br>
