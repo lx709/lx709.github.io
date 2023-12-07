@@ -93,7 +93,7 @@ Academic Service
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
   </h3>
-  Congcong Wen, Yuan Hu, <b>Xiang Li*</b>, Zhengpeng Yuan, Xiao Xiang Zhu.
+  <b>Xiang Li*</b>, Congcong Wen, Yuan Hu, Zhengpeng Yuan, Xiao Xiang Zhu.
   <br>
   <em>under review</em>, 2023
   <br>
@@ -101,67 +101,6 @@ Academic Service
     <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
     <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
     <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/mostgan-v.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>MoStGAN-V: Video Generation with Temporal Motion Styles.
-  </h3>
-  Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
-  <br>
-  <em>CVPR</em>, 2023
-  <br>
-  <div>
-    <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a>
-    <a href="https://arxiv.org/abs/2304.02777">[paper]</a>
-    <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a>
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/gp-aligner.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>GP-Aligner: Unsupervised Groupwise Non-Rigid Point Set Registration Based On Optimizable Group Latent Descriptor.
-  </h3>
-  Lingjing Wang, Nan Zhou, Hao Huang, Jifei Wang, <b>Xiang Li*</b>.
-  <br>
-  <em>TGRS</em>, 2022
-  <br>
-  <div>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
-    <a href="https://ieeexplore.ieee.org/document/9994035">[paper]</a>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
-
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/Meta-Det3D.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Meta-Det3D: Learn to Learn Few-Shot 3D Object Detection.
-  </h3>
-  Shuaihang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Hao Huang, Yi Fang.
-  <br>
-  <em>ACCV</em>, 2022 (<b>oral</b>)
-  <br>
-  <div>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
-    <a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Yuan_Meta-Det3D_Learn_to_Learn_Few-Shot_3D_Object_Detection_ACCV_2022_paper.pdf">[paper]</a>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a> -->
     <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
   </div>  
 </td>
