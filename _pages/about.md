@@ -44,7 +44,7 @@ Academic Service
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning.</h3>
-  Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny.
+  Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny.
   <br>
   <em>arxiv</em>, 2023
   <br>
