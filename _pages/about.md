@@ -27,19 +27,10 @@ Honors and Awards
 
 Academic Service
 ======
-* Journal Review: 
-  * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, JARS, Sensors, AIRQ.
+* Journal/Conference Review: 
+  * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, IJDI, JARS, Sensors, AIRQ.
   * TIP, TVCG, TEVC, TBD, NeuroComputing, PRL, Comput. Intell. Neurosci., IEEE ACCESS.
-* Conference Review:
-  * CVPR 2022, 2023
-  * ICCV 2021, 2023
-  * ECCV 2022
-  * NeruIPS 2023
-  * ICLR 2024
-  * AAAI 2022, 2023, 2024
-  * BMVC 2020, 2021, 2022
-  * WACV 2022, 2023
-
+  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022), NeruIPS (2023), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
