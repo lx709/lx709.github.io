@@ -100,27 +100,6 @@ Academic Service
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/jcr_net.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Unsupervised Category-Specific Partial Point Set Registration via Joint Shape Completion and Registration.
-  </h3>
-  <b>Xiang Li</b>, Lingjing Wang, Yi Fang.
-  <br>
-  <em>TVCG</em>, 2022
-  <br>
-  <div>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
-    <a href="https://arxiv.org/abs/2009.05290">[paper]</a>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
-
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/fsodm.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
