@@ -22,10 +22,6 @@ Academic Service
   * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL.
   * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022), NeruIPS (2023), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
 
-<h2><span>Selected Publications</span></h2>
-[# denotes equal contribution, * denotes corresponding author]
-<table cellspacing="0" cellpadding="0">
-
 Honors and Awards
 ======
 * Outstanding Reviewer for ICCV 2021.
@@ -36,6 +32,10 @@ Honors and Awards
 * Seagate Scholarship, Wuhan University, 2012
 * National Scholarship, Wuhan University, 2011
 
+
+<h2><span>Selected Publications</span></h2>
+[# denotes equal contribution, * denotes corresponding author]
+<table cellspacing="0" cellpadding="0">
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
