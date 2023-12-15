@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Abdullah University of Science and Technology) since Dec 2022. Before joining KAUST, I held a Postdoctoral Research position at the MMVC (Multimedia and Visual Computing) Lab, which is a collaborative initiative between NYU Tandon School of Engineering and NYU Abu Dhabi. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) in 2019. I'm currently interested in multimodality LLM, 3D computer vision, and remote sensing.
+I am currently a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Abdullah University of Science and Technology), working with Prof. [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before joining KAUST, I was a Postdoctoral Research at the MMVC (Multimedia and Visual Computing) Lab, working with Prof. [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang). I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) in 2019. I'm currently interested in multimodality LLM, 3D computer vision, and remote sensing.
 
 Academic Service
 ======
