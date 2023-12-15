@@ -12,18 +12,7 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am a Postdoc Researcher at VisionCAIR lab, KAUST. Prior to joining KAIST, I was a Postdoc Researcher at MMVC Lab, NYU Tandon and NYU Abu Dhabi. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the RADI, CAS in 2019. My research interests lie in computer vision and remote sensing.
-
-Honors and Awards
-======
-* Outstanding Reviewer for ICCV 2021.
-* Postdoc Non-travel Award, NYUAD 2020 & 2021.
-* National Scholarship, University of Chinese Academy of Sciences, 2018
-* Excellent research paper award, Institute of Remote Sensing and Digital Earth, CAS, 2018
-* China Scholarship Council scholarship, 2017
-* Presidential Foundation of RADI, 2017
-* Seagate Scholarship, Wuhan University, 2012
-* National Scholarship, Wuhan University, 2011
+I am a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Abdullah University of Science and Technology) since Dec 2022. Before joining KAUST, I held a Postdoctoral Research position at the MMVC (Multimedia and Visual Computing) Lab, which is a collaborative initiative between NYU Tandon School of Engineering and NYU Abu Dhabi. I received my Bachelor’s degree from Wuhan University in 2014 and my Ph.D. degree from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) in 2019. I'm currently interested in multimodality LLM, 3D computer vision, and remote sensing.
 
 Academic Service
 ======
@@ -36,6 +25,15 @@ Academic Service
 [# denotes equal contribution, * denotes corresponding author]
 <table cellspacing="0" cellpadding="0">
 
+Honors and Awards
+======
+* Outstanding Reviewer for ICCV 2021.
+* Postdoc Non-travel Award, NYUAD 2020 & 2021.
+* National Scholarship, University of Chinese Academy of Sciences, 2018
+* China Scholarship Council (CSC) scholarship, 2017
+* Presidential Foundation of RADI, 2017
+* Seagate Scholarship, Wuhan University, 2012
+* National Scholarship, Wuhan University, 2011
 
 
 <tr>
