@@ -17,9 +17,10 @@ I am currently a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Ab
 
 Academic Service
 ======
-* Journal/Conference Review: 
+* Journal Review: 
   * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, IJDI, JARS, Sensors, AIRQ.
   * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL.
+* Conference Review: 
   * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022), NeruIPS (2023), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
 
 Honors and Awards
