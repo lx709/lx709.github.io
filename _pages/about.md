@@ -23,16 +23,6 @@ Academic Service
 * Conference Review: 
   * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022), NeruIPS (2023), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
 
-Honors and Awards
-======
-* Outstanding Reviewer for ICCV 2021.
-* Postdoc Non-travel Award, NYUAD 2020 & 2021.
-* National Scholarship, University of Chinese Academy of Sciences, 2018
-* China Scholarship Council (CSC) scholarship, 2017
-* Presidential Foundation of RADI, 2017
-* Seagate Scholarship, Wuhan University, 2012
-* National Scholarship, Wuhan University, 2011
-
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
@@ -207,6 +197,17 @@ Honors and Awards
 
 
 </table>
+
+
+Honors and Awards
+======
+* Outstanding Reviewer for ICCV 2021.
+* Postdoc Non-travel Award, NYUAD 2020 & 2021.
+* National Scholarship, University of Chinese Academy of Sciences, 2018
+* China Scholarship Council (CSC) scholarship, 2017
+* Presidential Foundation of RADI, 2017
+* Seagate Scholarship, Wuhan University, 2012
+* National Scholarship, Wuhan University, 2011
 
 
 
