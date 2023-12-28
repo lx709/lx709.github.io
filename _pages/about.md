@@ -30,6 +30,25 @@ Academic Service
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
+  Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
+  <br>
+  <em>arxiv</em>, 2023
+  <br>
+  <div>
+    <a href="https://minigpt-4.github.io/">[project]</a>
+    <a href="https://arxiv.org/abs/2304.10592">[paper]</a>
+    <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a>
+    <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a>
+  </div>  
+</td>
+</tr>  
+
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/minigpt-v2.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -47,25 +66,42 @@ Academic Service
 </td>
 </tr>  
 
-
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
+  <img src="../images/rsgpt.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
-  Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
+  <h3>RSGPT: A Remote Sensing Vision Language Model and Benchmark.</h3>
+  Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>.
   <br>
   <em>arxiv</em>, 2023
   <br>
   <div>
-    <a href="https://minigpt-4.github.io/">[project]</a>
-    <a href="https://arxiv.org/abs/2304.10592">[paper]</a>
-    <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a>
-    <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a>
+    <a href="https://github.com/Lavender105/RSGPT">[project]</a>
+    <a href="https://arxiv.org/abs/2307.15266">[paper]</a>
+    <a href="https://github.com/Lavender105/RSGPT">[code]</a>
   </div>  
 </td>
 </tr>  
+
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/rsclip.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision.</h3>
+  <b>Xiang Li</b>, Xiang Li, Congcong Wen, Nan Zhou.
+  <br>
+  <em>International Journal of Applied Earth Observation and Geoinformation (JAG)</em>, 2023
+  <br>
+  <div>
+    <a href="https://github.com/lx709/RS-CLIP">[project]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843223003217">[paper]</a>
+    <a href="https://github.com/lx709/RS-CLIP">[code]</a>
+  </div>  
+</td>
+</tr>  
+
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
