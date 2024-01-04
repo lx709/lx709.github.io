@@ -46,7 +46,7 @@ Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>
 * <b>FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction</b>. <br>
 Faizan Khan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Andrew Temple, Mohamed Elhoseiny. <i>Intertional Conference on Computer Vision (ICCV) 2023</i>, accepted.<be>
 [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Khan_FishNet_A_Large-scale_Dataset_and_Benchmark_for_Fish_Recognition_Detection_ICCV_2023_paper.html)
-[[Code]]([https://github.com/lx709/RS-CLIP](https://github.com/faixan-khan/FishNet))
+[[Code]](https://github.com/faixan-khan/FishNet)
 
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
 Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.
