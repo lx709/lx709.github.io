@@ -10,7 +10,7 @@ author_profile: true
 ## 2023
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
 Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<br>
-[[PDF]]([https://arxiv.org/abs/2310.09478](https://arxiv.org/abs/2312.03026)
+[[PDF]](https://arxiv.org/abs/2312.03026)
 
 * <b>MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING </b>. <br>
 Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny. <i>arXiv</i>.<br>
