@@ -9,12 +9,15 @@ author_profile: true
 ---
 ## 2023
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
-Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<br>
+Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<be>
+[[Project]](https://uni3dl.github.io/)
 [[PDF]](https://arxiv.org/abs/2312.03026)
 
 * <b>MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING </b>. <br>
 Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny. <i>arXiv</i>.<br>
+[[Project]](https://minigpt-4.github.io/)
 [[PDF]](https://arxiv.org/abs/2310.09478)
+[[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
 
 * <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
 Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i> (<b>>20K starts in GitHub</b>).<br>
@@ -33,14 +36,17 @@ Jun Chen, Deyao Zhu, Killich Haydarov, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>ar
 * <b>RSGPT: A Remote Sensing Vision Language Model and Benchmark </b>. <br>
 Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2305.05726)
+[[Code]](https://github.com/Lavender105/RSGPT)
 
 * <b>RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision </b>. <br>
 <b>Xiang Li</b>, Congcong Wen, Nan Zhou. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023. <br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843223003217)
+[[Code]](https://github.com/lx709/RS-CLIP)
 
 * <b>FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction</b>. <br>
 Faizan Khan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Andrew Temple, Mohamed Elhoseiny. <i>Intertional Conference on Computer Vision (ICCV) 2023</i>, accepted.<be>
 [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Khan_FishNet_A_Large-scale_Dataset_and_Benchmark_for_Fish_Recognition_Detection_ICCV_2023_paper.html)
+[[Code]]([https://github.com/lx709/RS-CLIP](https://github.com/faixan-khan/FishNet))
 
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
 Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.
@@ -53,6 +59,7 @@ Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transact
 * <b>MoStGAN-V: Video Generation with Temporal Motion Styles</b>. <br>
 Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2023</i>.<br>
 [[PDF]](https://arxiv.org/abs/2304.02777)
+[[Code]](https://github.com/xiaoqian-shen/MoStGAN-V)
 
 * <b>Learn to Learn Metric Space for Few-Shot Segmentation of 3D Shapes</b>. <br>
 <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>arxiv</i>.<br>
