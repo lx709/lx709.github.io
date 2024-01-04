@@ -22,6 +22,10 @@ Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv
 [[PDF]](https://arxiv.org/abs/2304.10592)
 [[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
 
+* <b>Video chatcaptioner: Towards the enriched spatiotemporal descriptions</b>. <br>
+Jun Chen, Deyao Zhu, Killich Haydarov, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2304.04227)
+
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
 <b>Xiang Li*</b><sup>#</sup>, Congcong Wen<sup>#</sup>, Yuan Hu<sup>#</sup>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2305.05726)
