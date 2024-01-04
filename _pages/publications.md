@@ -9,7 +9,7 @@ author_profile: true
 ---
 ## 2023
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
-Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<be>
+Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<br>
 [[Project]](https://uni3dl.github.io/)
 [[PDF]](https://arxiv.org/abs/2312.03026)
 
