@@ -49,7 +49,7 @@ Faizan Khan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Andrew Temple, Mohamed Elh
 [[Code]](https://github.com/faixan-khan/FishNet)
 
 * <b>Few-shot object detection on aerial imagery via deep metric learning and knowledge inheritance</b>. <br>
-Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023.<br>
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journal of Applied Earth Observation and Geoinformation (JAG), 2023. <b>(Highly Cited paper)</b> <br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843223002212)
 
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
