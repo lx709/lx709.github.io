@@ -20,7 +20,7 @@ Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang
 [[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
 
 * <b>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models</b>. <br>
-Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>arxiv</i> (<b>>20K starts in GitHub</b>).<br>
+Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>ICLR 2024</i> (<b>>20K starts in GitHub</b>).<br>
 [[Project]](https://minigpt-4.github.io/)
 [[PDF]](https://arxiv.org/abs/2304.10592)
 [[Code]](https://github.com/Vision-CAIR/MiniGPT-4)
