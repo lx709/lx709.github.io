@@ -110,7 +110,7 @@ Hao Huang, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>International Conference 
 [[PDF]](https://ieeexplore.ieee.org/document/9362267)
 
 * <b>Geometry-Aware Segmentation of Remote Sensing Images via implicit height estimation</b>. <br>
-<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, 2021</i>.<br>
+<b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, 2021</i>. <b>(Highly Cited paper)</b><br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9361998?casa_token=IhdFOUYi5-sAAAAA:q6lizg6LXDTingCDZn36M6QMpN67eIoLe_OMnu9VGEoJmgWEsXdjMYOWocYx6L4lI6OMex5UsQ)
 
 ---
@@ -166,7 +166,7 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b><i class="icon-envelope-squa
 
 
 * <b>A novel spatiotemporal convolutional long short-term neural network for air pollution prediction</b>. <br>
-Congcong Wen, Shufu Liu, Xiaojing Yao, Ling Peng, <b>Xiang Li</b>, Yuan Hu, Tianhe Chi. <i>Science of The Total Environment, 2019</i>.<br> <b>(Highly Cited paper)</b>
+Congcong Wen, Shufu Liu, Xiaojing Yao, Ling Peng, <b>Xiang Li</b>, Yuan Hu, Tianhe Chi. <i>Science of The Total Environment, 2019</i>. <b>(Highly Cited paper)</b><br> 
 [[PDF]](https://arxiv.org/abs/1908.06673)
 
 
@@ -207,7 +207,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 ---
 ## 2017
 * <b>Long short-term memory neural network for air pollutant concentration predictions: Method development and evaluation</b>. <br>
-<b>Xiang Li</b>, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. <i>Environmental pollution, 2017</i>.<br> <b>(Highly Cited paper)</b>
+<b>Xiang Li</b>, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. <i>Environmental pollution, 2017</i>.<b>(Highly Cited paper)</b><br> 
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0269749117307534)
 
 * <b>Dynamic monitoring of the largest freshwater lake in China using a new water index derived from high spatiotemporal resolution Sentinel-1A data</b>. <br>
