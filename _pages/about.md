@@ -241,7 +241,7 @@ Honors and Awards
 * Postdoc Non-travel Award, NYUAD 2020 & 2021.
 * National Scholarship, University of Chinese Academy of Sciences, 2018
 * China Scholarship Council (CSC) scholarship, 2017
-* Presidential Foundation of RADI, 2017
+* Director's Fund of RADI, 2017
 * Seagate Scholarship, Wuhan University, 2012
 * National Scholarship, Wuhan University, 2011
 
