@@ -30,7 +30,7 @@ Jun Chen, Deyao Zhu, Killich Haydarov, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>ar
 [[PDF]](https://arxiv.org/abs/2304.04227)
 
 * <b>Vision-Language Models in Remote Sensing: Current Progress and Future Trends</b>. <br>
-<b>Xiang Li*</b><sup>#</sup>, Congcong Wen<sup>#</sup>, Yuan Hu<sup>#</sup>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>arxiv</i>.<br>
+<b>Xiang Li*</b><sup>#</sup>, Congcong Wen<sup>#</sup>, Yuan Hu<sup>#</sup>, Zhengpeng Yuan, Xiao Xiang Zhu. <i>IEEE Geoscience and Remote Sensing Magazine (GRSM)， 2024</i>.<br>
 [[PDF]](https://arxiv.org/abs/2305.05726)
 
 * <b>RSGPT: A Remote Sensing Vision Language Model and Benchmark </b>. <br>
