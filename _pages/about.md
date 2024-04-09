@@ -112,7 +112,7 @@ Academic Service
   </h3>
   <b>Xiang Li*</b>, Congcong Wen, Yuan Hu, Zhengpeng Yuan, Xiao Xiang Zhu.
   <br>
-  <em>under review</em>, 2023
+  <em>IEEE Geoscience and Remote Sensing Magazine (GRSM)</em>, 2024
   <br>
   <div>
     <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
