@@ -18,11 +18,10 @@ I am currently a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Ab
 Academic Service
 ======
 * Journal Review: 
-  * ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, IJDI, JARS, Sensors, AIRQ.
+  * RSE, ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, IJDI, JARS, Sensors, AIRQ.
   * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL.
 * Conference Review: 
-  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022), NeruIPS (2023), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
-
+  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022/2024), NeruIPS (2023/2024), ICML(2024), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
@@ -66,6 +65,28 @@ Academic Service
 </td>
 </tr>  
 
+
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/rsvlm.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
+  </h3>
+  <b>Xiang Li*</b>, Congcong Wen, Yuan Hu, Zhengpeng Yuan, Xiao Xiang Zhu.
+  <br>
+  <em>IEEE Geoscience and Remote Sensing Magazine (GRSM)</em>, 2024
+  <br>
+  <div>
+    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
+    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
+    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
+    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
+  </div>  
+</td>
+</tr> 
+
+
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/rsgpt.png" height="100%" width="100%" style="border-style: none">
@@ -102,26 +123,6 @@ Academic Service
 </td>
 </tr>  
 
-
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/rsvlm.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Vision-Language Models in Remote Sensing: Current Progress and Future Trends.
-  </h3>
-  <b>Xiang Li*</b>, Congcong Wen, Yuan Hu, Zhengpeng Yuan, Xiao Xiang Zhu.
-  <br>
-  <em>IEEE Geoscience and Remote Sensing Magazine (GRSM)</em>, 2024
-  <br>
-  <div>
-    <!-- <a href="https://minigpt-4.github.io/">[project]</a> -->
-    <a href="https://arxiv.org/abs/2305.05726">[paper]</a>
-    <!-- <a href="https://github.com/Vision-CAIR/MiniGPT-4">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr> 
 
 
 <tr>
