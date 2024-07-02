@@ -8,8 +8,22 @@ author_profile: true
 
 ---
 ## 2023
+
+* <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
+<b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2406.12384)
+
+* <b>Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images</b>. <br>
+Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2405.11293)
+
+* <b>InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images</b>. <br>
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li*</b>, Yi Cao, Guang Jin, Xuemin Zhang. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2403.13375)
+
+## 2023
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
-Xiang Li, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>arXiv</i>.<br>
+<b>Xiang Li</b>, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>ECCV 2024 accepted</i>.<br>
 [[Project]](https://uni3dl.github.io/)
 [[PDF]](https://arxiv.org/abs/2312.03026)
 
