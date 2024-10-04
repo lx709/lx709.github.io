@@ -12,16 +12,19 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am currently a Postdoctoral Researcher at the VisionCAIR lab at KAUST (King Abdullah University of Science and Technology), working with Prof. [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before joining KAUST, I was a Postdoctoral researcher at the MMVC (Multimedia and Visual Computing) Lab, working with Prof. [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang). I got my Ph.D. degree from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS) in 2019 
-, supervised by Prof. Tianhe Chi. I received my Bachelor’s degree from Wuhan University in 2014. I'm currently interested in multimodality LLM, 3D computer vision, and remote sensing.
+I am a Lecturer (Assistant Professor) in Computer Science at the University of Reading. Prior to this, I was a Postdoctoral Researcher at the VisionCAIR lab at King Abdullah University of Science and Technology (KAUST), working under the supervision of Prof. [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before my time at KAUST, I held a Postdoctoral Researcher position at the Multimedia and Visual Computing (MMVC) Lab, where I worked closely with Prof. [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang).
+
+I earned my Ph.D. in 2019 from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS), under the supervision of Prof. Tianhe Chi. I also hold a Bachelor’s degree from Wuhan University, which I received in 2014.
+
+My research interests lie at the intersection of multimodal large language models (LLMs), 3D computer vision, and remote sensing.
 
 Academic Service
 ======
 * Journal Review: 
-  * RSE, ISPRS JPRS, TGRS, GRSL, JSTAR, IJGI, IJDI, JARS, Sensors, AIRQ.
-  * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL.
+  * RSE, ISPRS JPRS, TGRS, GRSL, JSTAR, etc.
+  * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL, etc.
 * Conference Review: 
-  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022/2024), NeruIPS (2023/2024), ICML(2024), ICLR (2024), AAAI (2022/2023/2024), BMVC (2020/2021/2022), WACV (2022/2023)
+  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022/2024), NeruIPS (2023/2024), ICML(2024), ICLR (2024), AAAI (2022/2023/2024), etc.
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
