@@ -21,10 +21,10 @@ My research interests lie at the intersection of multimodal large language model
 Academic Service
 ======
 * Journal Review: 
-  * RSE, ISPRS JPRS, TGRS, GRSL, JSTAR, etc.
-  * TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL, etc.
+  * TPAMI, TIP, TVCG, TEVC, TBD, CVIU, NeuroComputing, PRL, etc.
+  * RSE, ISPRS JPRS, TGRS, GRSM, etc.
 * Conference Review: 
-  * CVPR (2022/2023/2024), ICCV (2021/2023), ECCV (2022/2024), NeruIPS (2023/2024), ICML(2024), ICLR (2024), AAAI (2022/2023/2024), etc.
+  * CVPR (2022/2023/2024/2025), ICCV (2021/2023), ECCV (2022/2024), NeruIPS (2023/2024), ICML(2024), ICLR (2024/2025), AAAI (2022/2023/2024), etc.
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
