@@ -12,11 +12,11 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-I am a Lecturer (Assistant Professor) in Computer Science at the University of Reading. Prior to this, I was a Postdoctoral Researcher at the VisionCAIR lab at King Abdullah University of Science and Technology (KAUST), working under the supervision of Prof. [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before my time at KAUST, I held a Postdoctoral Researcher position at the Multimedia and Visual Computing (MMVC) Lab, where I worked closely with Prof. [Yi Fang](https://engineering.nyu.edu/faculty/yi-fang).
+Xiang Li is a Lecturer (Assistant Professor) in Computer Science at the University of Reading. His research focuses on Multimodal Large Language Models (LLMs), remote sensing, and AI for Earth Observation. He has authored over 50 publications in top-tier conferences and journals, including TGRS, ISPRS JPRS, CVPR, ICCV, ECCV, and NeurIPS. Xiang is also the co-author of the widely recognized MiniGPT-4 and MiniGPT-v2 projects, which have collectively garnered over 25,000 stars on GitHub. Additionally, he serves as the lead guest editor for the special issue "Vision-Language Models in Remote Sensing" in the IEEE Geoscience and Remote Sensing Magazine (GRSM).
 
-I earned my Ph.D. in 2019 from the Institute of Remote Sensing and Digital Earth (RADI), Chinese Academy of Sciences (CAS), under the supervision of Prof. Tianhe Chi. I also hold a Bachelor’s degree from Wuhan University, which I received in 2014.
+Previously, Xiang was a Postdoctoral Researcher at the VisionCAIR lab at King Abdullah University of Science and Technology (KAUST), working under the guidance of Prof. Mohamed Elhoseiny. Before that, he held a Postdoctoral Researcher position at the Multimedia and Visual Computing (MMVC) Lab, collaborating with Prof. Yi Fang. 
 
-My research interests lie at the intersection of multimodal large language models (LLMs), 3D computer vision, and remote sensing.
+Xiang earned his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019, under the mentorship of Prof. Tianhe Chi.
 
 Academic Service
 ======
