@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Xiang Li"
   avatar           : "lx.jpg"
-  bio              : "Postdoc Associate at KAUST"
-  location         : "Jeddah, Saudi Arabia"
+  bio              : "Lecturer at University of Reading"
+  location         : "United Kingdom"
   employer         :
   pubmed           : "https://publons.com/researcher/3175047/xiang-li/"
-  googlescholar    : "https://scholar.google.com/citations?user=4Apl5FgAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=4Apl5FgAAAAJ&hl=en"
   email            : "lixiang709709@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xiang_Li222" #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
