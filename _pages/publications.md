@@ -13,23 +13,27 @@ author_profile: true
 <b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2406.12384)
 
+* <b>3DCoMPaT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition</b>. <br>
+Mahmoud Ahmed, <b>Xiang Li</b>, Arpit Prajapati, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+[[PDF]](https://arxiv.org/abs/2406.12384)
+
 * <b>Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images</b>. <br>
 Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2405.11293)
 
 * <b>InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images</b>. <br>
-Wuzhou Li, Jiawei Zhou, <b>Xiang Li*</b>, Yi Cao, Guang Jin, Xuemin Zhang. <i>IEEE Transactions on Geoscience and Remote Sensing, 2024</i>.<br>
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin, Xuemin Zhang. <i>IEEE Transactions on Geoscience and Remote Sensing, 2024</i>.<br>
 [[PDF]](https://arxiv.org/abs/2403.13375)
 
 * <b>Learning to learn point signature for 3D shape geometry</b>. <br>
 Hao Huang, Lingjing Wang, <b>Xiang Li</b>, Shuaihang Yuan, Congcong Wen, Yu Hao, Yi Fang. <i>Pattern Recognition Letters, 2024</i>.
 
 * <b>Spatio-temporal modeling of satellite-observed CO2 columns in China using deep learning</b>. <br>
-Zhonghua He, Gaofeng Fan, Xiang Li, Fang-Ying Gong, Miao Liang, Ling Gao, Minqiang Zhou. <i>International Journal of Applied Earth Observation and Geoinformation, 2024</i>.<br>
+Zhonghua He, Gaofeng Fan, <b>Xiang Li</b>, Fang-Ying Gong, Miao Liang, Ling Gao, Minqiang Zhou. <i>International Journal of Applied Earth Observation and Geoinformation, 2024</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843224002139)
 
 * <b>Deep learning modeling of human activity affected wildfire risk by incorporating structural features: A case study in eastern China</b>. <br>
-Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, Xiang Li, Zhao-Cheng Zeng. <i>Ecological Indicators, 2024</i>.<br>
+Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, <b>Xiang Li</b>, Zhao-Cheng Zeng. <i>Ecological Indicators, 2024</i>.<br>
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843224002139)
 
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
