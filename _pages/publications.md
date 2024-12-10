@@ -10,12 +10,12 @@ author_profile: true
 ## 2024
 
 * <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
-<b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+<b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>NeruIPS 2024</i>.<br>
 [[Project]](https://vrsbench.github.io/)
 [[PDF]](https://arxiv.org/abs/2406.12384)
 
 * <b>3DCoMPaT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition</b>. <br>
-Mahmoud Ahmed, <b>Xiang Li</b>, Arpit Prajapati, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+Mahmoud Ahmed, <b>Xiang Li</b>, Arpit Prajapati, Mohamed Elhoseiny. <i>NeruIPS 2024</i>.<br>
 [[PDF]](https://openreview.net/pdf?id=L4yLhMjCOR)
 
 * <b>Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images</b>. <br>
@@ -74,7 +74,7 @@ Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>. <i>arxiv</i>
 [[Code]](https://github.com/lx709/RS-CLIP)
 
 * <b>FishNet: A Large-scale Dataset and Benchmark for Fish Recognition, Detection, and Functional Traits Prediction</b>. <br>
-Faizan Khan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Andrew Temple, Mohamed Elhoseiny. <i>Intertional Conference on Computer Vision (ICCV) 2023</i>, accepted.<br>
+Faizan Khan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Andrew Temple, Mohamed Elhoseiny. <i>Intertional Conference on Computer Vision (ICCV) 2023</i>.<br>
 [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/html/Khan_FishNet_A_Large-scale_Dataset_and_Benchmark_for_Fish_Recognition_Detection_ICCV_2023_paper.html)
 [[Code]](https://github.com/faixan-khan/FishNet)
 
@@ -83,7 +83,7 @@ Wuzhou Li, Jiawei Zhou, <b>Xiang Li</b>, Yi Cao, Guang Jin. International Journa
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843223002212)
 
 * <b>3D Shape Contrastive Representation Learning with Adversarial Examples</b>. <br>
-Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transactions on Multimedia (TMM), accepted</i>.<br>
+Congcong Wen, <b>Xiang Li</b>, Hao Huang, Yusheng Liu, Yi Fang. <i>IEEE Transactions on Multimedia (TMM)</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/iel7/6046/4456689/10094000.pdf)
 
 * <b>MoStGAN-V: Video Generation with Temporal Motion Styles</b>. <br>
