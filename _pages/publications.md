@@ -11,11 +11,12 @@ author_profile: true
 
 * <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
 <b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>arxiv</i>.<br>
+[[Project]](https://vrsbench.github.io/)
 [[PDF]](https://arxiv.org/abs/2406.12384)
 
 * <b>3DCoMPaT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition</b>. <br>
 Mahmoud Ahmed, <b>Xiang Li</b>, Arpit Prajapati, Mohamed Elhoseiny. <i>arxiv</i>.<br>
-[[PDF]](https://arxiv.org/abs/2406.12384)
+[[PDF]](https://openreview.net/pdf?id=L4yLhMjCOR)
 
 * <b>Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images</b>. <br>
 Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
