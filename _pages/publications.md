@@ -7,7 +7,7 @@ author_profile: true
 [# denotes equal contribution, * denotes corresponding author]
 
 ---
-## 2023
+## 2024
 
 * <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
 <b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>arxiv</i>.<br>
@@ -18,15 +18,26 @@ Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, <b>Xiang Li*</b>. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2405.11293)
 
 * <b>InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images</b>. <br>
-Wuzhou Li, Jiawei Zhou, <b>Xiang Li*</b>, Yi Cao, Guang Jin, Xuemin Zhang. <i>arxiv</i>.<br>
+Wuzhou Li, Jiawei Zhou, <b>Xiang Li*</b>, Yi Cao, Guang Jin, Xuemin Zhang. <i>IEEE Transactions on Geoscience and Remote Sensing, 2024</i>.<br>
 [[PDF]](https://arxiv.org/abs/2403.13375)
 
-## 2023
+* <b>Learning to learn point signature for 3D shape geometry</b>. <br>
+Hao Huang, Lingjing Wang, <b>Xiang Li</b>, Shuaihang Yuan, Congcong Wen, Yu Hao, Yi Fang. <i>Pattern Recognition Letters, 2024</i>.
+
+* <b>Spatio-temporal modeling of satellite-observed CO2 columns in China using deep learning</b>. <br>
+Zhonghua He, Gaofeng Fan, Xiang Li, Fang-Ying Gong, Miao Liang, Ling Gao, Minqiang Zhou. <i>International Journal of Applied Earth Observation and Geoinformation, 2024</i>.<br>
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843224002139)
+
+* <b>Deep learning modeling of human activity affected wildfire risk by incorporating structural features: A case study in eastern China</b>. <br>
+Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, Xiang Li, Zhao-Cheng Zeng. <i>Ecological Indicators, 2024</i>.<br>
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S1569843224002139)
+
 * <b>Uni3DL: Unified Model for 3D and Language Understanding </b>. <br>
-<b>Xiang Li</b>, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>ECCV 2024 accepted</i>.<br>
+<b>Xiang Li</b>, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. <i>ECCV 2024</i>.<br>
 [[Project]](https://uni3dl.github.io/)
 [[PDF]](https://arxiv.org/abs/2312.03026)
 
+## 2023
 * <b>MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING </b>. <br>
 Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny. <i>arXiv</i>.<br>
 [[Project]](https://minigpt-4.github.io/)
