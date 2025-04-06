@@ -12,21 +12,23 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-Dr. Xiang Li is a Lecturer in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing data processing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 5000+ citations on Google Scholar and an h-index of 25. He collaborates with leading researchers from institutions such as the TUM, NYU, KAUST, WHU, and AIR CAS. Dr. Li was involved in the MiniGPT-4 project (>25k stars on GitHub) and served as a guest editor for the IEEE GRSM special issue on “Vision-Language Models in Remote Sensing.” His research aims to drive innovation in AI technologies for Earth observation and practical applications. Dr Li got his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019.
+Dr. Xiang Li is a Lecturer in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 6500+ citations on Google Scholar and an h-index of 27. He collaborates with leading researchers from institutions such as the TUM, NYU, KAUST, WHU, and AIR CAS. Dr. Li contributed to the well-known MiniGPT-4 project, with over 2700 citations and 25k stars on GitHub. He served as a guest editor for the IEEE GRSM special issue on “Vision-Language Models in Remote Sensing.” His research aims to drive innovation in AI technologies for Earth observation and practical applications. Dr Li got his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019.
 
 🔥Hiring PhD Students and Interns: welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+* [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) is accepted for publication at ISPRS JPRS. RSGPT is the first attempt of GPT-based MLLMs in remote sensing.
+* [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) is accepted for publication at COLM. 
 * [12/2024] Opening position: One fully funded PhD position in AI for Bioversity.
 * [10/2024] I join the University of Reading as a Lecturer in Computer Science.
-* [09/2024] Two papers accepted at NeruIPS 2024 Datasets and Benchmarks Track (VRSBench and 3DCoMPaT200).
+* [09/2024] Two papers accepted at NeruIPS 2024 Datasets and Benchmarks Track [VRSBench](https://github.com/lx709/VRSBench) and [3DCoMPaT200](https://github.com/3DCoMPaT200/3DCoMPaT200).
 * [07/2024] One paper on 3D LLM (Uni3DL) is accepted by ECCV 2024.
 * [07/2024] I will serve as the Guest Editor for the special issue "[Vision-Language Models in Remote Sensing](https://www.grss-ieee.org/wp-content/uploads/2024/10/call-for-papers_GRSM_SI_VLM.pdf)" at IEEE GRSM.
 * [06/2024] I'm co-organizing the C3DV: 2nd Workshop on Compositional 3D Vision at CVPR 2024.
 * [05/2024] One paper on few-shot object detection (InfRS) is accepted by TGRS.
 * [05/2024] One paper on CO2 mapping is published at JAG.
 * [04/2024] The first review paper on vision-language models in remote sensing is published at IEEE GRSM.
-* [11/2023] One paper on CLIP-based RS scene classification (RS-CLIP) is published at JAG.
+* [11/2023] One paper on CLIP-based RS scene classification [RS-CLIP](https://github.com/lx709/RS-CLIP) is published at JAG.
 * [07/2023] We release [RSGPT](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
 * [05/2025] We release the review paper on vision-language models in remote sensing.
 
