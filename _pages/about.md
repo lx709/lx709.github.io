@@ -17,20 +17,20 @@ Dr. Xiang Li is a Lecturer in the Department of Computer Science at the Universi
 🔥Hiring PhD Students and Interns: welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
-* [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) is accepted for publication at ISPRS JPRS. RSGPT is the first attempt of GPT-based MLLMs in remote sensing.
-* [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) is accepted for publication at COLM. 
+* [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) was accepted for publication at ISPRS JPRS. RSGPT is the first attempt of GPT-based MLLMs in remote sensing.
+* [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) was accepted for publication at COLM. 
 * [12/2024] Opening position: One fully funded PhD position in AI for Bioversity.
-* [10/2024] I join the University of Reading as a Lecturer in Computer Science.
+* [10/2024] I joined the University of Reading as a Lecturer in Computer Science.
 * [09/2024] Two papers accepted at NeruIPS 2024 Datasets and Benchmarks Track [VRSBench](https://github.com/lx709/VRSBench) and [3DCoMPaT200](https://github.com/3DCoMPaT200/3DCoMPaT200).
-* [07/2024] One paper on 3D LLM (Uni3DL) is accepted by ECCV 2024.
-* [07/2024] I will serve as the Guest Editor for the special issue "[Vision-Language Models in Remote Sensing](https://www.grss-ieee.org/wp-content/uploads/2024/10/call-for-papers_GRSM_SI_VLM.pdf)" at IEEE GRSM.
-* [06/2024] I'm co-organizing the C3DV: 2nd Workshop on Compositional 3D Vision at CVPR 2024.
-* [05/2024] One paper on few-shot object detection (InfRS) is accepted by TGRS.
-* [05/2024] One paper on CO2 mapping is published at JAG.
-* [04/2024] The first review paper on vision-language models in remote sensing is published at IEEE GRSM.
-* [11/2023] One paper on CLIP-based RS scene classification [RS-CLIP](https://github.com/lx709/RS-CLIP) is published at JAG.
-* [07/2023] We release [RSGPT](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
-* [05/2025] We release the review paper on vision-language models in remote sensing.
+* [07/2024] One paper on 3D LLM (Uni3DL) was accepted by ECCV 2024.
+* [07/2024] I served as the Guest Editor for the special issue "[Vision-Language Models in Remote Sensing](https://www.grss-ieee.org/wp-content/uploads/2024/10/call-for-papers_GRSM_SI_VLM.pdf)" at IEEE GRSM.
+* [06/2024] I'm co-organizing the [C3DV 2024](https://3dcompat-dataset.org/workshop/C3DV24/): 2nd Workshop on Compositional 3D Vision at CVPR 2024.
+* [05/2024] One paper on few-shot object detection (InfRS) was accepted by TGRS.
+* [05/2024] One paper on CO<sub>2</sub> mapping was published at JAG.
+* [04/2024] Our survey paper [Vision-Language Models in Remote Sensing](https://ieeexplore.ieee.org/document/10506064) was published at IEEE GRSM.
+* [11/2023] [RS-CLIP](https://github.com/lx709/RS-CLIP) was published at JAG.
+* [07/2023] We released [RSGPT](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
+* [05/2025] We released the survey paper [Vision-Language Models in Remote Sensing(https://arxiv.org/abs/2305.05726).
 
 
 <h2><span>Selected Publications</span></h2>
