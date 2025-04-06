@@ -29,9 +29,10 @@ Dr. Xiang Li is a Lecturer in the Department of Computer Science at the Universi
 * [05/2024] One paper on CO<sub>2</sub> mapping was published at JAG.
 * [04/2024] Our survey paper [Vision-Language Models in Remote Sensing](https://ieeexplore.ieee.org/document/10506064) was published at IEEE GRSM.
 * [11/2023] [RS-CLIP](https://github.com/lx709/RS-CLIP) was published at JAG.
+* [10/2023] We released [MiniGPT-v2](https://minigpt-4.github.io/).
 * [07/2023] We released [RSGPT](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
-* [05/2025] We released the survey paper [Vision-Language Models in Remote Sensing(https://arxiv.org/abs/2305.05726).
-
+* [05/2023] We released the survey paper [Vision-Language Models in Remote Sensing(https://arxiv.org/abs/2305.05726).
+* [04/2023] We released [MiniGPT-4](https://minigpt-4.github.io/).
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
