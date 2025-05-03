@@ -12,12 +12,12 @@ redirect_from:
   <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
 </p> -->
 
-Dr. Xiang Li is a Lecturer in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 6500+ citations on Google Scholar and an h-index of 27. He collaborates with leading researchers from institutions such as the TUM, NYU, KAUST, WHU, and AIR CAS. Dr. Li contributed to the well-known MiniGPT-4 project, with over 2700 citations and 25k stars on GitHub. He served as a guest editor for the IEEE GRSM special issue on “Vision-Language Models in Remote Sensing.” His research aims to drive innovation in AI technologies for Earth observation and practical applications. Dr Li got his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019.
+Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 6800+ citations on Google Scholar and an h-index of 27. He collaborates with leading researchers from institutions such as the TUM, NYU, KAUST, WHU, and AIR CAS. Dr. Li contributed to the well-known MiniGPT-4 project, with over 2900 citations and 25k stars on GitHub. He served as a guest editor for the IEEE GRSM special issue on “Vision-Language Models in Remote Sensing.” His research aims to drive innovation in AI technologies for Earth observation and practical applications. Dr Li got his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019.
 
-🔥Hiring PhD Students and Interns: welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
+🔥Hiring PhD Students and Interns: Welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
-* [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) was accepted for publication at ISPRS JPRS. RSGPT is the first attempt of GPT-based MLLMs in remote sensing.
+* [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) was accepted for publication at ISPRS JPRS. RSGPT is the first attempt at GPT-based MLLMs in remote sensing.
 * [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) was accepted for publication at COLM. 
 * [12/2024] Opening position: One fully funded PhD position in AI for Bioversity.
 * [10/2024] I joined the University of Reading as a Lecturer in Computer Science.
@@ -43,7 +43,7 @@ Dr. Xiang Li is a Lecturer in the Department of Computer Science at the Universi
   <img src="../images/minigpt4.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
+  <h3> MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
   Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
   <br>
   <em>arxiv</em>, 2023
