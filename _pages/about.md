@@ -17,6 +17,8 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 🔥Hiring PhD Students and Interns: Welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+* [03/2025] We release [REOBench](https://github.com/lx709/REOBench): A benchmark for evaluating the robustness of Earth observation foundation models.
+* [05/2025] I gave a seminar talk "Large Vision Language Models in Remote Sensing: Datasets and Models" at the Data Assimilation Research Center.
 * [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) was accepted for publication at ISPRS JPRS. RSGPT is the first attempt at GPT-based MLLMs in remote sensing.
 * [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) was accepted for publication at COLM. 
 * [12/2024] Opening position: One fully funded PhD position in AI for Bioversity.
