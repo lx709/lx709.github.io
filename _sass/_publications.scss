@@ -1,0 +1,69 @@
+/* Publications page styles */
+html { 
+  scroll-behavior: smooth; 
+}
+
+.year-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: #fff;
+  padding: 1em 0;
+  border-bottom: 1px solid #eee;
+  z-index: 1000;
+  margin-bottom: 2em;
+
+  &-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1em;
+  }
+
+  button {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+    min-width: 70px;
+
+    &:hover {
+      background: #f5f5f5;
+    }
+
+    &.active {
+      background: #0366d6;
+      color: white;
+      border-color: #0366d6;
+    }
+
+    @media screen and (max-width: 600px) {
+      padding: 0.3em 0.8em;
+      font-size: 0.8rem;
+      min-width: 60px;
+    }
+  }
+}
+
+.publications {
+  h2 {
+    margin-top: 2em;
+    padding-top: 2em;
+    scroll-margin-top: 100px;
+  }
+
+  /* Add spacing between publications */
+  h2 + p {
+    margin-top: 2em;
+  }
+
+  p + p {
+    margin-top: 2em;
+  }
+} 
