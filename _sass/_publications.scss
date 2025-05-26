@@ -2,10 +2,13 @@
 html { 
   scroll-behavior: smooth; 
   scroll-padding-top: 100px;
+  overflow-y: scroll; /* Prevents layout shift when navigating */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
 }
 
 .publications {
   position: relative;
+  min-height: 100vh; /* Ensure enough scrollable content */
 }
 
 .year-nav {
@@ -17,6 +20,8 @@ html {
   border-bottom: 1px solid #eee;
   z-index: 1000;
   margin-bottom: 2em;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 
   &-container {
     display: flex;
@@ -62,7 +67,9 @@ html {
     margin-top: 2em;
     padding-top: 2em;
     scroll-margin-top: 100px;
+    scroll-snap-margin-top: 100px; /* Fallback for older Safari */
     position: relative;
+    will-change: transform; /* Optimize scrolling performance */
   }
 
   /* Add spacing between publications */

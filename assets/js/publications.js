@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const buttons = yearNav.querySelectorAll('button');
   const sections = document.querySelectorAll('h2[id]');
+  const SCROLL_OFFSET = 100; // Define constant for consistency
   
   // Add click handlers to buttons
   buttons.forEach(btn => {
@@ -22,19 +23,10 @@ document.addEventListener('DOMContentLoaded', function() {
           top: 0,
           behavior: 'smooth'
         });
-      } else if (target === 'before-2020') {
-        const section = document.getElementById('2019');
-        if (section) {
-          const offset = section.getBoundingClientRect().top + window.pageYOffset - 100;
-          window.scrollTo({
-            top: offset,
-            behavior: 'smooth'
-          });
-        }
       } else {
-        const section = document.getElementById(target);
+        const section = document.getElementById(target === 'before-2020' ? '2019' : target);
         if (section) {
-          const offset = section.getBoundingClientRect().top + window.pageYOffset - 100;
+          const offset = section.getBoundingClientRect().top + window.pageYOffset - SCROLL_OFFSET;
           window.scrollTo({
             top: offset,
             behavior: 'smooth'
@@ -46,8 +38,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Create Intersection Observer for sections
   const observerOptions = {
-    rootMargin: '-100px 0px -50% 0px',
-    threshold: [0, 1]
+    rootMargin: `-${SCROLL_OFFSET}px 0px -50% 0px`,
+    threshold: [0, 0.1, 1]  // Added 0.1 threshold for better detection
   };
 
   const observer = new IntersectionObserver((entries) => {
@@ -78,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initial active state based on scroll position
   function updateActiveButton() {
-    const scrollPosition = window.pageYOffset + 150;
+    const scrollPosition = window.pageYOffset + SCROLL_OFFSET;
     let activeSection = null;
 
     sections.forEach(section => {
@@ -107,7 +99,16 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // Update active button on scroll
-  window.addEventListener('scroll', updateActiveButton);
+  let scrollTimeout;
+  window.addEventListener('scroll', function() {
+    if (scrollTimeout) {
+      window.cancelAnimationFrame(scrollTimeout);
+    }
+    scrollTimeout = window.requestAnimationFrame(function() {
+      updateActiveButton();
+    });
+  });
+  
   // Set initial active button
   updateActiveButton();
 }); 
