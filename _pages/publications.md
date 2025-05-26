@@ -6,6 +6,77 @@ author_profile: true
 
 [# denotes equal contribution, * denotes corresponding author]
 
+<!-- somewhere near the top of your page/template -->
+<style>
+  html { scroll-behavior: smooth; }
+
+  /* year-nav container */
+  .year-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin: 1em 0;
+  }
+  .year-nav button {
+    background: white;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .year-nav button.active {
+    border-color: #f36;
+    color: #f36;
+  }
+</style>
+
+<script>
+  const buttons = document.querySelectorAll('#yearNav button');
+  const sections = Array.from(document.querySelectorAll('h2[id^="y"]'));
+
+  buttons.forEach(btn =>
+    btn.addEventListener('click', () => {
+      // remove .active on all
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      const target = btn.dataset.target;
+      if (target === 'all') {
+        // scroll to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        // find that section and scroll
+        document.getElementById(target)
+                .scrollIntoView({ behavior: 'smooth' });
+      }
+    })
+  );
+
+  // Optional: as you scroll, auto-highlight the current year
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        buttons.forEach(b => b.classList.toggle(
+          'active',
+          b.dataset.target === e.target.id
+        ));
+      }
+    });
+  }, { rootMargin: '0px 0px -80% 0px' });
+
+  sections.forEach(sec => io.observe(sec));
+</script>
+
+<div class="year-nav" id="yearNav">
+  <button data-target="all" class="active">ALL</button>
+  <button data-target="y2025">2025</button>
+  <button data-target="y2024">2024</button>
+  <button data-target="y2023">2023</button>
+  <button data-target="y2022">2022</button>
+  <!-- …etc… -->
+</div>
+
 ---
 ## 2024
 
