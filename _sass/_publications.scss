@@ -24,6 +24,16 @@ body {
   position: relative;
   padding-top: 70px; /* Space for the fixed navigation */
   min-height: 100vh; /* Ensure enough scrollable content */
+
+  /* Remove underlines from all links in publications */
+  a {
+    text-decoration: none !important;
+    
+    &:hover {
+      text-decoration: none !important;
+      opacity: 0.8;
+    }
+  }
 }
 
 /* Fixed navigation styles */
@@ -120,6 +130,16 @@ body {
     padding-left: 0;
     padding-right: 0;
     width: 100%;
+
+    /* Ensure links in publications content also have no underline */
+    a {
+      text-decoration: none !important;
+      
+      &:hover {
+        text-decoration: none !important;
+        opacity: 0.8;
+      }
+    }
   }
 } 
 
