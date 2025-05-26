@@ -7,6 +7,8 @@ author_profile: true
 [# denotes equal contribution, * denotes corresponding author]
 
 <style>
+  html { scroll-behavior: smooth; }
+  
   .year-nav {
     position: -webkit-sticky;
     position: sticky;
@@ -81,62 +83,9 @@ author_profile: true
   </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const yearNav = document.getElementById('yearNav');
-  if (!yearNav) return;
+<div id="publications-container">
 
-  const buttons = yearNav.querySelectorAll('button');
-  const sections = Array.from(document.querySelectorAll('h2')).filter(h2 => /^\d{4}/.test(h2.textContent.trim()));
-  
-  // Add IDs to year headings if they don't exist
-  sections.forEach(section => {
-    const year = section.textContent.trim();
-    if (!section.id) {
-      section.id = 'y' + year;
-    }
-  });
-
-  buttons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      buttons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-
-      const target = btn.dataset.target;
-      if (target === 'all') {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      } else {
-        const targetElement = document.getElementById(target);
-        if (targetElement) {
-          targetElement.scrollIntoView({ behavior: 'smooth' });
-        }
-      }
-    });
-  });
-
-  // Highlight active year while scrolling
-  const observerOptions = {
-    rootMargin: '-80px 0px -80% 0px',
-    threshold: 0
-  };
-
-  const observer = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const id = entry.target.id;
-        buttons.forEach(btn => {
-          btn.classList.toggle('active', btn.dataset.target === id);
-        });
-      }
-    });
-  }, observerOptions);
-
-  sections.forEach(section => observer.observe(section));
-});
-</script>
-
----
-## 2024
+## <span id="y2024">2024</span>
 
 * <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
 <b>Xiang Li*</b>, Jian Ding, Mohamed Elhoseiny. <i>NeruIPS 2024</i>.<br>
@@ -171,7 +120,8 @@ Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, <b>Xiang Li</b>, 
 [[Project]](https://uni3dl.github.io/)
 [[PDF]](https://arxiv.org/abs/2312.03026)
 
-## 2023
+## <span id="y2023">2023</span>
+
 * <b>MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING </b>. <br>
 Jun Chen, Deyao Zhu, Xiaoqian Shen, <b>Xiang Li</b>, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny. <i>arXiv</i>.<br>
 [[Project]](https://minigpt-4.github.io/)
@@ -228,7 +178,8 @@ Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny. <i>IEEE Conference on Compute
 Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2006.12378)
 
-## 2022
+## <span id="y2022">2022</span>
+
 * <b>GP-Aligner: Unsupervised Groupwise Non-Rigid Point Set Registration Based On Optimizable Group Latent Descriptor</b>. <br>
 Lingjing Wang, Nan Zhou, Hao Huang, Jifei Wang, <b>Xiang Li*</b><i class="icon-envelope-square"></i>, Yi Fang. <i>IEEE Transactions on Geoscience and Remote Sensing 2022</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9994035)
@@ -249,8 +200,7 @@ Shuaihang Yuan<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Hao Huang, Yi Fang. <i>
 Xufeng Jiang, Nan Zhou, <b>Xiang Li*</b>. <i>IEEE Geosciences and Remote Sensing Letters 2022</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721235&tag=1)
 
----
-## 2021
+## <span id="y2021">2021</span>
 
 * <b>Accurate and efficient solution of electromagnetic scattering from randomly rough surface using MoM-SMCG with adaptive quadrature</b>. <br>
 Yanlei Du, Junjun Yin, <b>Xiang Li</b>, Fan Gao, Jian Yang. <i>Electronics Letters</i>.<br>
@@ -272,8 +222,8 @@ Hao Huang, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>International Conference 
 <b>Xiang Li</b>, Congcong Wen, Lingjing Wang, Yi Fang. <i>IEEE Geoscience and Remote Sensing Letters, 2021</i>. <b>(Highly Cited paper)</b><br>
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9361998?casa_token=IhdFOUYi5-sAAAAA:q6lizg6LXDTingCDZn36M6QMpN67eIoLe_OMnu9VGEoJmgWEsXdjMYOWocYx6L4lI6OMex5UsQ)
 
----
-## 2020
+## <span id="y2020">2020</span>
+
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
 Nan Zhou<sup>#</sup>, <b>Xiang Li<sup>#</sup></b>, Tianjun Wu, Jiancheng Luo. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), 2020</i>.<br>
 [[PDF]](https://ieeexplore.ieee.org/document/9261102)
@@ -313,8 +263,8 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b><i class="icon-envelope-squa
 [[PDF]](https://authors.elsevier.com/a/1abO93I9x1cfvT)
 [[Code]](https://https://github.com/lx709/D-FCN)
 
----
-## 2019
+## <span id="y2019">2019</span>
+
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
 <b>Xiang Li<sup>#</sup></b>, Lingjing Wang<sup>#</sup>, Yi Fang. <i>2019 International Conference on 3D Vision (3DV)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
@@ -347,8 +297,8 @@ Yuan Hu, Yunpeng Chen, <b>Xiang Li</b>, Jiashi Feng. <i>International Joint Conf
 Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/1904.01428)
 
----
-## 2018
+## <span id="y2018">2018</span>
+
 * <b>Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks</b>. <br>
 <b>Xiang Li</b>, Xiaojing Yao, Yi Fang. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), 2018</i>.<br>
 [[PDF]](https://arxiv.org/abs/1910.05909)
@@ -363,8 +313,8 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 * <b>基于全卷积网络的高分辨遥感影像目标检测</b>. <br>
 徐逸之, 姚晓婧, <b>李祥*</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
 
----
-## 2017
+## <span id="y2017">2017</span>
+
 * <b>Long short-term memory neural network for air pollutant concentration predictions: Method development and evaluation</b>. <br>
 <b>Xiang Li</b>, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. <i>Environmental pollution, 2017</i>.<b>(Highly Cited paper)</b><br> 
 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0269749117307534)
@@ -373,8 +323,8 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng Niu. <i>Remote Sensing, 2017</i>.<br>
 [[PDF]](https://www.mdpi.com/2072-4292/9/6/521)
 
----
-## 2016
+## <span id="y2016">2016</span>
+
 * <b>Deep learning architecture for air quality predictions</b>. <br>
 <b>Xiang Li</b>, Ling Peng, Yuan Hu, Jing Shao, Tianhe Chi. <i>Environmental Science and Pollution Research, 2016</i>.<br>
 [[PDF]](https://link.springer.com/article/10.1007/s11356-016-7812-9)
@@ -388,10 +338,58 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 * <b>北京市空气质量时空特征分析</b>. <br>
 <b>李祥</b> 彭玲, 池天河, 李浩川, 徐逸之. <i>测绘通报, 2016</i>.<br>
 
----
-## 2015
+## <span id="y2015">2015</span>
+
 * <b>A Novel Fuzzy Chinese Address Matching Engine Based on Full-text Search Technology</b>. <br>
 Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International Conference on Computer Engineering and Networks, 2015</i>.<br>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const yearNav = document.getElementById('yearNav');
+  if (!yearNav) return;
+
+  const buttons = yearNav.querySelectorAll('button');
+  const sections = Array.from(document.querySelectorAll('h2')).filter(h2 => /^\d{4}/.test(h2.textContent.trim()));
+  
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      const target = btn.dataset.target;
+      if (target === 'all') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        const targetElement = document.getElementById(target);
+        if (targetElement) {
+          targetElement.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    });
+  });
+
+  // Highlight active year while scrolling
+  const observerOptions = {
+    rootMargin: '-80px 0px -80% 0px',
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.parentElement.id || entry.target.id;
+        buttons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.target === id);
+        });
+      }
+    });
+  }, observerOptions);
+
+  sections.forEach(section => observer.observe(section));
+});
+</script>
 
 ---
 ## 专著
