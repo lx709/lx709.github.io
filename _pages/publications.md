@@ -29,6 +29,7 @@ author_profile: true
     justify-content: center;
     max-width: 100%;
     margin: 0 auto;
+    padding: 0 1em;
   }
 
   .year-nav button {
@@ -39,6 +40,7 @@ author_profile: true
     cursor: pointer;
     font-size: 0.9rem;
     transition: all 0.2s ease;
+    min-width: 70px;
   }
 
   .year-nav button:hover {
@@ -62,13 +64,10 @@ author_profile: true
   }
 
   @media screen and (max-width: 600px) {
-    .year-nav-container {
-      padding: 0 1em;
-    }
-    
     .year-nav button {
       padding: 0.3em 0.8em;
       font-size: 0.8rem;
+      min-width: 60px;
     }
   }
 </style>
@@ -81,11 +80,7 @@ author_profile: true
     <button data-target="2022">2022</button>
     <button data-target="2021">2021</button>
     <button data-target="2020">2020</button>
-    <button data-target="2019">2019</button>
-    <button data-target="2018">2018</button>
-    <button data-target="2017">2017</button>
-    <button data-target="2016">2016</button>
-    <button data-target="2015">2015</button>
+    <button data-target="2019" class="before-2020">Before 2020</button>
   </div>
 </div>
 
@@ -473,9 +468,7 @@ window.addEventListener('DOMContentLoaded', function() {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
       
-      // Remove active class from all buttons
       buttons.forEach(b => b.classList.remove('active'));
-      // Add active class to clicked button
       this.classList.add('active');
 
       const target = this.getAttribute('data-target');
@@ -485,6 +478,16 @@ window.addEventListener('DOMContentLoaded', function() {
           top: 0,
           behavior: 'smooth'
         });
+      } else if (target === '2019') { // Handle "Before 2020" button
+        const section = document.getElementById('2019');
+        if (section) {
+          const yOffset = -100; 
+          const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          window.scrollTo({
+            top: y,
+            behavior: 'smooth'
+          });
+        }
       } else {
         const section = document.getElementById(target);
         if (section) {
@@ -510,12 +513,22 @@ window.addEventListener('DOMContentLoaded', function() {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         const id = entry.target.id;
-        buttons.forEach(btn => {
-          if (btn.getAttribute('data-target') === id) {
-            buttons.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-          }
-        });
+        // Handle "Before 2020" active state
+        if (parseInt(id) < 2020) {
+          buttons.forEach(btn => {
+            if (btn.classList.contains('before-2020')) {
+              buttons.forEach(b => b.classList.remove('active'));
+              btn.classList.add('active');
+            }
+          });
+        } else {
+          buttons.forEach(btn => {
+            if (btn.getAttribute('data-target') === id) {
+              buttons.forEach(b => b.classList.remove('active'));
+              btn.classList.add('active');
+            }
+          });
+        }
       }
     });
   }, observerOptions);
