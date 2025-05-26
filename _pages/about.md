@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <p align="center">
-  <img src="https://lx709.github.io/images/lx.jpg?raw=true" alt="Photo" style="width: 100px;"/> 
-</p> -->
 
-Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 6800+ citations on Google Scholar and an h-index of 27. He collaborates with leading researchers from institutions such as the TUM, NYU, KAUST, WHU, and AIR CAS. Dr. Li contributed to the well-known MiniGPT-4 project, with over 2900 citations and 25k stars on GitHub. He served as a guest editor for the IEEE GRSM special issue on “Vision-Language Models in Remote Sensing.” His research aims to drive innovation in AI technologies for Earth observation and practical applications. Dr Li got his Bachelor’s degree from Wuhan University in 2014 and his PhD degree from the Aerospace Information Research Institute, Chinese Academy of Sciences in 2019.
+Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Reading. His research focuses on multimodal large language models, computer vision, and remote sensing. Dr. Li has published over 50 papers in top conferences and journals in computer vision and remote sensing, including CVPR, ICCV, NeurIPS, TVCG, and TGRS, with 6800+ citations on Google Scholar and an h-index of 27. Dr. Li contributed to the well-known MiniGPT-4 project, with over 3000 citations and 25k stars on GitHub. Dr. Li co-organized the 1st and 2nd workshops on Compositional 3D Vision and the 3DCoMPaT dataset challenge at IEEE CVPR 2023 and 2024. Additionally, he serves as Guest Editor for the special issue on "Vision-Language Models in Remote Sensing" in the IEEE Geoscience and Remote Sensing Magazine.
 
 🔥Hiring PhD Students and Interns: Welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
@@ -30,6 +27,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 * [05/2024] One paper on few-shot object detection (InfRS) was accepted by TGRS.
 * [05/2024] One paper on CO<sub>2</sub> mapping was published at JAG.
 * [04/2024] Our survey paper [Vision-Language Models in Remote Sensing](https://ieeexplore.ieee.org/document/10506064) was published at IEEE GRSM.
+* [03/2024] I gave a talk "AI for Earth Observation" at Prof. [Matthew McCabe](https://www.kaust.edu.sa/en/study/faculty/matthew-mccabe)'s lab.
 * [11/2023] [RS-CLIP](https://github.com/lx709/RS-CLIP) was published at JAG.
 * [10/2023] We released [MiniGPT-v2](https://minigpt-4.github.io/).
 * [07/2023] We released [RSGPT](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
