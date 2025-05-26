@@ -6,3 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Computer Science, University of Reading"
 date: 2024-25
 ---
+
+## Course Description
+Master's level course in Computer Science focusing on Big Data and Cloud Computing.
+

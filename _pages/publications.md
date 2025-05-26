@@ -7,14 +7,13 @@ author_profile: true
 [# denotes equal contribution, * denotes corresponding author]
 
 <style>
-  html { scroll-behavior: smooth; }
-
   .year-nav {
+    position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background: white;
+    background: var(--bg-color, #fff);
     padding: 1em 0;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color, #e1e4e8);
     z-index: 1000;
     margin-bottom: 2em;
   }
@@ -24,30 +23,45 @@ author_profile: true
     flex-wrap: wrap;
     gap: 0.5em;
     justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
   }
 
   .year-nav button {
-    background: white;
-    border: 2px solid #2a7ae2;
-    border-radius: 4px;
+    background: var(--bg-color, #fff);
+    border: 1px solid var(--border-color, #e1e4e8);
+    border-radius: 6px;
     padding: 0.5em 1em;
     cursor: pointer;
     font-size: 0.9rem;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
+    color: var(--text-color, #24292e);
   }
 
   .year-nav button:hover {
-    background: #2a7ae2;
-    color: white;
+    background: var(--border-color, #e1e4e8);
+    text-decoration: none;
   }
 
   .year-nav button.active {
-    background: #2a7ae2;
-    color: white;
+    background: var(--heading-color, #24292e);
+    color: var(--bg-color, #fff);
+    border-color: var(--heading-color, #24292e);
   }
 
   h2[id^="y"] {
     scroll-margin-top: 80px;
+  }
+
+  @media screen and (max-width: 600px) {
+    .year-nav-container {
+      padding: 0 1em;
+    }
+    
+    .year-nav button {
+      padding: 0.3em 0.8em;
+      font-size: 0.8rem;
+    }
   }
 </style>
 
@@ -58,14 +72,22 @@ author_profile: true
     <button data-target="y2023">2023</button>
     <button data-target="y2022">2022</button>
     <button data-target="y2021">2021</button>
+    <button data-target="y2020">2020</button>
+    <button data-target="y2019">2019</button>
+    <button data-target="y2018">2018</button>
+    <button data-target="y2017">2017</button>
+    <button data-target="y2016">2016</button>
+    <button data-target="y2015">2015</button>
   </div>
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const yearNav = document.getElementById('yearNav');
+  if (!yearNav) return;
+
   const buttons = yearNav.querySelectorAll('button');
-  const sections = Array.from(document.querySelectorAll('h2')).filter(h2 => h2.textContent.match(/^\d{4}/));
+  const sections = Array.from(document.querySelectorAll('h2')).filter(h2 => /^\d{4}/.test(h2.textContent.trim()));
   
   // Add IDs to year headings if they don't exist
   sections.forEach(section => {
@@ -77,9 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   buttons.forEach(btn => {
     btn.addEventListener('click', () => {
-      // Remove active class from all buttons
       buttons.forEach(b => b.classList.remove('active'));
-      // Add active class to clicked button
       btn.classList.add('active');
 
       const target = btn.dataset.target;
