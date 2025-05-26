@@ -2,11 +2,9 @@ document.addEventListener('DOMContentLoaded', function() {
   function findSections() {
     // Try different selectors in order of preference
     const selectors = [
-      '.publications-content h2[id]',  // First try sections with IDs in the content div
-      '.publications h2[id]',          // Then try sections with IDs in the main div
-      '.publications-content h2',      // Then any h2s in the content div
-      '.publications h2',              // Then any h2s in the main div
-      'h2[id]'                        // Finally, any h2 with an ID
+      '.publications-content h2',      // Try h2s in the content div first
+      '.publications h2',              // Then h2s in the main div
+      'h2'                            // Finally, any h2
     ];
     
     for (const selector of selectors) {
@@ -15,21 +13,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('Found sections using selector:', selector, sections.length);
         return sections;
       }
-    }
-    
-    // If no sections found, try to fix the structure
-    const h2s = document.querySelectorAll('h2');
-    if (h2s.length > 0) {
-      console.log('Found h2s without proper structure, attempting to fix...');
-      h2s.forEach(h2 => {
-        const yearMatch = h2.textContent.trim().match(/^(\d{4})/);
-        if (yearMatch && !h2.id) {
-          h2.id = yearMatch[1];
-          console.log('Added ID to section:', yearMatch[1]);
-        }
-      });
-      // Try one more time with the fixed structure
-      return document.querySelectorAll('h2[id]');
     }
     
     console.warn('No sections found with any selector');
@@ -48,18 +31,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const sections = findSections();
     const SCROLL_OFFSET = 100;
     
-    // Debug log all sections and their IDs
+    // Debug log all sections
     console.log('All sections:', Array.from(sections).map(s => ({
-      id: s.id,
       text: s.textContent.trim(),
-      hasId: s.hasAttribute('id'),
-      actualId: s.getAttribute('id')
-    })));
-    
-    // Debug log all buttons and their targets
-    console.log('All buttons:', Array.from(buttons).map(b => ({
-      target: b.getAttribute('data-target'),
-      text: b.textContent.trim()
+      id: s.id
     })));
     
     buttons.forEach(btn => {
@@ -70,10 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
         this.classList.add('active');
 
         const target = this.getAttribute('data-target');
-        console.log('Button clicked:', {
-          target: target,
-          buttonText: this.textContent.trim()
-        });
+        console.log('Button clicked:', target);
         
         if (target === 'all') {
           window.scrollTo({
@@ -83,37 +55,30 @@ document.addEventListener('DOMContentLoaded', function() {
           return;
         }
         
-        // Try different ways to find the section
         let section = null;
         
         if (target === 'before-2020') {
-          section = document.getElementById('2019') || 
-                   Array.from(sections).find(s => s.textContent.trim().startsWith('2019'));
+          // Find the first section from 2019 or earlier
+          section = Array.from(sections).find(s => {
+            const year = parseInt(s.textContent.trim());
+            return !isNaN(year) && year <= 2019;
+          });
         } else {
-          section = document.getElementById(target) || 
-                   Array.from(sections).find(s => s.textContent.trim().startsWith(target));
+          // Find section by year
+          section = Array.from(sections).find(s => 
+            s.textContent.trim().startsWith(target)
+          );
         }
         
         if (section) {
-          console.log('Scrolling to section:', {
-            id: section.id,
-            text: section.textContent.trim(),
-            offsetTop: section.offsetTop
-          });
-          
+          console.log('Scrolling to section:', section.textContent.trim());
           const offset = section.getBoundingClientRect().top + window.pageYOffset - SCROLL_OFFSET;
           window.scrollTo({
             top: offset,
             behavior: 'smooth'
           });
         } else {
-          console.warn('Section not found:', {
-            target: target,
-            availableSections: Array.from(sections).map(s => ({
-              id: s.id,
-              text: s.textContent.trim()
-            }))
-          });
+          console.warn('Section not found for year:', target);
         }
       });
     });
@@ -127,18 +92,21 @@ document.addEventListener('DOMContentLoaded', function() {
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
-          const id = entry.target.id;
-          const year = parseInt(id);
+          const year = parseInt(entry.target.textContent);
           
           buttons.forEach(btn => btn.classList.remove('active'));
           
-          if (year && year < 2020) {
-            const beforeButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === 'before-2020');
+          if (!isNaN(year) && year <= 2019) {
+            const beforeButton = Array.from(buttons).find(btn => 
+              btn.getAttribute('data-target') === 'before-2020'
+            );
             if (beforeButton) {
               beforeButton.classList.add('active');
             }
           } else {
-            const yearButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === id);
+            const yearButton = Array.from(buttons).find(btn => 
+              btn.getAttribute('data-target') === entry.target.textContent.trim()
+            );
             if (yearButton) {
               yearButton.classList.add('active');
             }
@@ -147,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }, observerOptions);
 
-    // Observe all year sections
+    // Observe all sections
     sections.forEach(section => observer.observe(section));
 
     // Initial active state based on scroll position
@@ -163,16 +131,20 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       if (activeSection) {
-        const year = parseInt(activeSection.id);
+        const year = parseInt(activeSection.textContent);
         buttons.forEach(btn => btn.classList.remove('active'));
         
-        if (year && year < 2020) {
-          const beforeButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === 'before-2020');
+        if (!isNaN(year) && year <= 2019) {
+          const beforeButton = Array.from(buttons).find(btn => 
+            btn.getAttribute('data-target') === 'before-2020'
+          );
           if (beforeButton) {
             beforeButton.classList.add('active');
           }
         } else {
-          const yearButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === activeSection.id);
+          const yearButton = Array.from(buttons).find(btn => 
+            btn.getAttribute('data-target') === activeSection.textContent.trim()
+          );
           if (yearButton) {
             yearButton.classList.add('active');
           }
@@ -193,5 +165,5 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Set initial active button
     updateActiveButton();
-  }, 200); // Increased timeout to ensure Jekyll processing is complete
+  }, 200);
 }); 

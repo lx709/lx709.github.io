@@ -21,7 +21,7 @@ author_profile: true
   </div>
 
   <div class="publications-content" markdown="1">
-## 2025 {#2025}
+## 2025
 **REOBench: Benchmarking Robustness of Earth Observation Foundation Models**<br>
 **Xiang Li**, Yong Tao, Siyuan Zhang, Siwei Liu, Zhitong Xiong, Chunbo Luo, Lu Liu, Mykola Pechenizkiy, Xiao Xiang Zhu, Tianjin Huang. *arXiv*<br>
 [PDF](https://arxiv.org/pdf/2505.16793)
@@ -34,7 +34,7 @@ Congcong Wen, Yiting Lin, Xiaokang Qu, Nan Li, Yong Liao, Hui Lin, **Xiang Li**.
 Tianjin Huang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, **Xiang Li**, Li Shen, Tianlong Chen, Lu Liu, Qingsong Wen, Zhangyang Wang, Shiwei Liu. *arXiv*<br>
 [PDF](https://arxiv.org/pdf/2502.17055)
 
-## 2024 {#2024}
+## 2024
 **Geoground: A unified large vision-language model for remote sensing visual grounding**<br>
 Yue Zhou, Mengcheng Lan, Xiang Li, Yiping Ke, Xue Jiang, Litong Feng, Wayne Zhang. *arXiv*<br>
 [PDF](https://arxiv.org/pdf/2411.11904)
@@ -70,8 +70,7 @@ Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, **Xiang Li**, Zha
 **Xiang Li**, Jian Ding, Zhaoyang Chen, Mohamed Elhoseiny. *ECCV 2024*<br>
 [Project](https://uni3dl.github.io/) \| [PDF](https://arxiv.org/abs/2312.03026)
 
-## 2023 {#2023}
-
+## 2023
 **MiniGPT-V2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning**<br>
 Jun Chen, Deyao Zhu, Xiaoqian Shen, **Xiang Li**, Zechun Liu, Pengchuan Zhang, Raghuraman Krishnamoorthi, Vikas Chandra, Yunyang Xiong, Mohamed Elhoseiny. *arXiv*<br>
 [Project](https://minigpt-4.github.io/) \| [PDF](https://arxiv.org/abs/2310.09478) \| [Code](https://github.com/Vision-CAIR/MiniGPT-4)
@@ -120,8 +119,7 @@ Xiaoqian Shen, **Xiang Li**, Mohamed Elhoseiny. *IEEE Conference on Computer Vis
 Lingjing Wang, **Xiang Li**, Yi Fang. *arxiv*<br>
 [PDF](https://arxiv.org/abs/2006.12378)
 
-## 2022 {#2022}
-
+## 2022
 **GP-Aligner: Unsupervised Groupwise Non-Rigid Point Set Registration Based On Optimizable Group Latent Descriptor**<br>
 Lingjing Wang, Nan Zhou, Hao Huang, Jifei Wang, **Xiang Li\***, Yi Fang. *IEEE Transactions on Geoscience and Remote Sensing 2022*<br>
 [PDF](https://ieeexplore.ieee.org/document/9994035)
@@ -142,8 +140,7 @@ Shuaihang Yuan<sup>#</sup>, **Xiang Li<sup>#</sup>**, Hao Huang, Yi Fang. *Asian
 Xufeng Jiang, Nan Zhou, **Xiang Li\***. *IEEE Geosciences and Remote Sensing Letters 2022*<br>
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721235&tag=1)
 
-## 2021 {#2021}
-
+## 2021
 **Accurate and efficient solution of electromagnetic scattering from randomly rough surface using MoM-SMCG with adaptive quadrature**<br>
 Yanlei Du, Junjun Yin, **Xiang Li**, Fan Gao, Jian Yang. *Electronics Letters*<br>
 [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12229)
@@ -164,8 +161,7 @@ Hao Huang, **Xiang Li**, Lingjing Wang, Yi Fang. *International Conference on 3D
 **Xiang Li**, Congcong Wen, Lingjing Wang, Yi Fang. *IEEE Geoscience and Remote Sensing Letters, 2021*. **Highly Cited paper**<br>
 [PDF](https://ieeexplore.ieee.org/abstract/document/9361998?casa_token=IhdFOUYi5-sAAAAA:q6lizg6LXDTingCDZn36M6QMpN67eIoLe_OMnu9VGEoJmgWEsXdjMYOWocYx6L4lI6OMex5UsQ)
 
-## 2020 {#2020}
-
+## 2020
 **Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas**<br>
 Nan Zhou<sup>#</sup>, **Xiang Li<sup>#</sup>**, Tianjun Wu, Jiancheng Luo. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), 2020*<br>
 [PDF](https://ieeexplore.ieee.org/document/9261102)
@@ -202,8 +198,7 @@ Lingjing Wang<sup>#</sup>, **Xiang Li<sup>#</sup>**, Yi Fang. *IEEE Conference o
 Congcong Wen, Lina Yang, Ling Peng, **Xiang Li\***, Tianhe Chi. *ISPRS Journal of Photogrammetry and Remote Sensing, 2020*<br>
 [PDF](https://authors.elsevier.com/a/1abO93I9x1cfvT) \| [Code](https://github.com/lx709/D-FCN)
 
-## 2019 {#2019}
-
+## 2019
 **PC-Net: Unsupervised Point Correspondence Learning with Neural Networks**<br>
 **Xiang Li<sup>#</sup>**, Lingjing Wang<sup>#</sup>, Yi Fang. *2019 International Conference on 3D Vision (3DV)*<br>
 [PDF](https://www.ijcai.org/proceedings/2019/0399.pdf)
@@ -232,8 +227,7 @@ Yunpeng Chen, **Xiang Li**, Jiashi Feng. *International Joint Conferences on Art
 Lingjing Wang, Jianchun Chen, **Xiang Li**, Yi Fang. *arxiv*<br>
 [PDF](https://arxiv.org/abs/1904.01428)
 
-## 2018 {#2018}
-
+## 2018
 **Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks**<br>
 **Xiang Li**, Xiaojing Yao, Yi Fang. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(JSTAR), 2018*<br>
 [PDF](https://arxiv.org/abs/1910.05909) \| [Code](https://ieeexplore.ieee.org/document/8453267)
@@ -248,8 +242,7 @@ Yuan Hu, Ling Peng, **Xiang Li**, Xiaojing Yao, Hui Lin, Tianhe Chi. *Energy, 20
 **基于全卷积网络的高分辨遥感影像目标检测**<br>
 徐逸之, 姚晓婧, **李祥***, 周楠, 胡媛. *测绘通报, 2018*.
 
-## 2017 {#2017}
-
+## 2017
 **Long short-term memory neural network for air pollutant concentration predictions: Method development and evaluation**<br>
 **Xiang Li**, Ling Peng, Xiaojing Yao, Shaolong Cui, Yuan Hu, Chengzeng You, Tianhe Chi. *Environmental pollution, 2017*. **Highly Cited paper**<br>
 [PDF](https://www.sciencedirect.com/science/article/pii/S0269749117307534)
@@ -258,8 +251,7 @@ Yuan Hu, Ling Peng, **Xiang Li**, Xiaojing Yao, Hui Lin, Tianhe Chi. *Energy, 20
 Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, **Xiang Li**, Zheng Niu. *Remote Sensing, 2017*<br>
 [PDF](https://www.mdpi.com/2072-4292/9/6/521)
 
-## 2016 {#2016}
-
+## 2016
 **Deep learning architecture for air quality predictions**<br>
 **Xiang Li**, Ling Peng, Yuan Hu, Jing Shao, Tianhe Chi. *Environmental Science and Pollution Research, 2016*<br>
 [PDF](https://link.springer.com/article/10.1007/s11356-016-7812-9)
@@ -273,8 +265,7 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, **Xiang Li**, Zheng Ni
 **北京市空气质量时空特征分析**<br>
 **李祥** 彭玲, 池天河, 李浩川, 徐逸之. *测绘通报, 2016*.
 
-## 2015 {#2015}
-
+## 2015
 **A Novel Fuzzy Chinese Address Matching Engine Based on Full-text Search Technology**<br>
 Xiaojing Yao, **Xiang Li**, Ling Peng, Tianhe Chi. *The 5th International Conference on Computer Engineering and Networks, 2015*.
   </div>
