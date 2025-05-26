@@ -1,4 +1,26 @@
 document.addEventListener('DOMContentLoaded', function() {
+  function findSections() {
+    // Try different selectors in order of preference
+    const selectors = [
+      '.publications h2[id]',
+      '.publications-content h2[id]',
+      '.publications h2',
+      '.publications-content h2',
+      'h2[id]'
+    ];
+    
+    for (const selector of selectors) {
+      const sections = document.querySelectorAll(selector);
+      if (sections.length > 0) {
+        console.log('Found sections using selector:', selector);
+        return sections;
+      }
+    }
+    
+    console.warn('No sections found with any selector');
+    return [];
+  }
+
   // Wait a short moment for Jekyll to finish processing
   setTimeout(() => {
     const yearNav = document.getElementById('yearNav');
@@ -8,9 +30,20 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const buttons = yearNav.querySelectorAll('button');
-    // More specific selector to ensure we're getting the right sections
-    const sections = document.querySelectorAll('.publications h2');
+    const sections = findSections();
     const SCROLL_OFFSET = 100;
+    
+    if (sections.length === 0) {
+      console.warn('No sections found in the document');
+      // Try to create IDs for sections that don't have them
+      document.querySelectorAll('h2').forEach(h2 => {
+        if (!h2.id && h2.textContent.match(/^\d{4}/)) {
+          const year = h2.textContent.match(/^\d{4}/)[0];
+          h2.id = year;
+          console.log('Added ID to section:', year);
+        }
+      });
+    }
     
     // Debug log all sections and their IDs
     console.log('All sections:', Array.from(sections).map(s => ({
@@ -49,27 +82,25 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Try different ways to find the section
         let section = null;
+        
+        // Function to find section by year
+        const findSectionByYear = (year) => {
+          // Try multiple methods to find the section
+          return (
+            document.getElementById(year) ||
+            document.querySelector(`h2[id="${year}"]`) ||
+            Array.from(document.querySelectorAll('h2')).find(h2 => 
+              h2.textContent.trim().startsWith(year)
+            )
+          );
+        };
+        
         if (target === 'before-2020') {
-          section = document.getElementById('2019');
+          section = findSectionByYear('2019');
           console.log('Looking for before-2020 section:', section);
         } else {
-          // First try direct ID
-          section = document.getElementById(target);
-          console.log('Found section by ID:', section);
-          
-          // If not found, try finding h2 with matching text
-          if (!section) {
-            section = Array.from(sections).find(h2 => {
-              const match = h2.textContent.trim().startsWith(target);
-              console.log('Checking section:', {
-                text: h2.textContent.trim(),
-                target: target,
-                matches: match
-              });
-              return match;
-            });
-            console.log('Found section by text:', section);
-          }
+          section = findSectionByYear(target);
+          console.log('Found section for target:', target, section);
         }
         
         if (section) {
@@ -87,7 +118,10 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
           console.warn('Section not found:', {
             target: target,
-            availableSections: Array.from(sections).map(s => s.id)
+            availableSections: Array.from(document.querySelectorAll('h2')).map(s => ({
+              id: s.id,
+              text: s.textContent.trim()
+            }))
           });
         }
       });
@@ -168,5 +202,5 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Set initial active button
     updateActiveButton();
-  }, 100); // Small delay to ensure Jekyll has processed everything
+  }, 100);
 }); 
