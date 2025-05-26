@@ -1,6 +1,11 @@
 /* Publications page styles */
 html { 
   scroll-behavior: smooth; 
+  scroll-padding-top: 100px;
+}
+
+.publications {
+  position: relative;
 }
 
 .year-nav {
@@ -32,6 +37,7 @@ html {
     font-size: 0.9rem;
     transition: all 0.2s ease;
     min-width: 70px;
+    outline: none;
 
     &:hover {
       background: #f5f5f5;
@@ -56,6 +62,7 @@ html {
     margin-top: 2em;
     padding-top: 2em;
     scroll-margin-top: 100px;
+    position: relative;
   }
 
   /* Add spacing between publications */

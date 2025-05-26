@@ -25,20 +25,18 @@ document.addEventListener('DOMContentLoaded', function() {
       } else if (target === 'before-2020') {
         const section = document.getElementById('2019');
         if (section) {
-          const yOffset = -100;
-          const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          const offset = section.getBoundingClientRect().top + window.pageYOffset - 100;
           window.scrollTo({
-            top: y,
+            top: offset,
             behavior: 'smooth'
           });
         }
       } else {
         const section = document.getElementById(target);
         if (section) {
-          const yOffset = -100;
-          const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          const offset = section.getBoundingClientRect().top + window.pageYOffset - 100;
           window.scrollTo({
-            top: y,
+            top: offset,
             behavior: 'smooth'
           });
         }
@@ -49,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Create Intersection Observer for sections
   const observerOptions = {
     rootMargin: '-100px 0px -50% 0px',
-    threshold: 0
+    threshold: [0, 1]
   };
 
   const observer = new IntersectionObserver((entries) => {
@@ -77,4 +75,39 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Observe all year sections
   sections.forEach(section => observer.observe(section));
+
+  // Initial active state based on scroll position
+  function updateActiveButton() {
+    const scrollPosition = window.pageYOffset + 150;
+    let activeSection = null;
+
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop;
+      if (scrollPosition >= sectionTop) {
+        activeSection = section;
+      }
+    });
+
+    if (activeSection) {
+      const year = parseInt(activeSection.id);
+      buttons.forEach(btn => btn.classList.remove('active'));
+      
+      if (year < 2020) {
+        const beforeButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === 'before-2020');
+        if (beforeButton) {
+          beforeButton.classList.add('active');
+        }
+      } else {
+        const yearButton = Array.from(buttons).find(btn => btn.getAttribute('data-target') === activeSection.id);
+        if (yearButton) {
+          yearButton.classList.add('active');
+        }
+      }
+    }
+  }
+
+  // Update active button on scroll
+  window.addEventListener('scroll', updateActiveButton);
+  // Set initial active button
+  updateActiveButton();
 }); 
