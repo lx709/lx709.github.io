@@ -10,6 +10,7 @@ author_profile: true
   <div class="year-nav">
     <div class="year-nav-container" id="yearNav">
       <button data-target="all" class="active">ALL</button>
+      <button data-target="2025">2025</button>
       <button data-target="2024">2024</button>
       <button data-target="2023">2023</button>
       <button data-target="2022">2022</button>
