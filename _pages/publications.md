@@ -7,15 +7,17 @@ author_profile: true
 [# denotes equal contribution, * denotes corresponding author]
 
 <style>
-  html { scroll-behavior: smooth; }
+  html { 
+    scroll-behavior: smooth; 
+  }
   
   .year-nav {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background: var(--bg-color, #fff);
+    background: #fff;
     padding: 1em 0;
-    border-bottom: 1px solid var(--border-color, #e1e4e8);
+    border-bottom: 1px solid #eee;
     z-index: 1000;
     margin-bottom: 2em;
   }
@@ -30,40 +32,33 @@ author_profile: true
   }
 
   .year-nav button {
-    background: var(--bg-color, #fff);
-    border: 1px solid var(--border-color, #e1e4e8);
+    background: #fff;
+    border: 1px solid #ddd;
     border-radius: 6px;
     padding: 0.5em 1em;
     cursor: pointer;
     font-size: 0.9rem;
     transition: all 0.2s ease;
-    color: var(--text-color, #24292e);
   }
 
   .year-nav button:hover {
-    background: var(--border-color, #e1e4e8);
-    text-decoration: none;
+    background: #f5f5f5;
   }
 
   .year-nav button.active {
-    background: var(--heading-color, #24292e);
-    color: var(--bg-color, #fff);
-    border-color: var(--heading-color, #24292e);
+    background: #0366d6;
+    color: white;
+    border-color: #0366d6;
   }
 
-  .year-section {
-    scroll-margin-top: 80px;
-  }
-
-  /* Add spacing between publication items */
   .publication-item {
     margin-bottom: 2em;
   }
 
-  /* Add spacing between years */
   h2 {
     margin-top: 2em;
-    scroll-margin-top: 80px;
+    padding-top: 2em;
+    scroll-margin-top: 100px;
   }
 
   @media screen and (max-width: 600px) {
@@ -81,22 +76,22 @@ author_profile: true
 <div class="year-nav">
   <div class="year-nav-container" id="yearNav">
     <button data-target="all" class="active">ALL</button>
-    <button data-target="y2024">2024</button>
-    <button data-target="y2023">2023</button>
-    <button data-target="y2022">2022</button>
-    <button data-target="y2021">2021</button>
-    <button data-target="y2020">2020</button>
-    <button data-target="y2019">2019</button>
-    <button data-target="y2018">2018</button>
-    <button data-target="y2017">2017</button>
-    <button data-target="y2016">2016</button>
-    <button data-target="y2015">2015</button>
+    <button data-target="2024">2024</button>
+    <button data-target="2023">2023</button>
+    <button data-target="2022">2022</button>
+    <button data-target="2021">2021</button>
+    <button data-target="2020">2020</button>
+    <button data-target="2019">2019</button>
+    <button data-target="2018">2018</button>
+    <button data-target="2017">2017</button>
+    <button data-target="2016">2016</button>
+    <button data-target="2015">2015</button>
   </div>
 </div>
 
 <div id="publications-container">
 
-<h2 id="y2024">2024</h2>
+<h2 id="2024">2024</h2>
 
 <div class="publication-item">
 * <b>VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding</b>. <br>
@@ -147,7 +142,7 @@ Zhonghua He, Gaofeng Fan, Zhengquan Li, Shaohong Li, Ling Gao, <b>Xiang Li</b>, 
 [[PDF]](https://arxiv.org/abs/2312.03026)
 </div>
 
-<h2 id="y2023">2023</h2>
+<h2 id="2023">2023</h2>
 
 <div class="publication-item">
 * <b>MINIGPT-V2: LARGE LANGUAGE MODEL AS A UNIFIED INTERFACE FOR VISION-LANGUAGE MULTI-TASK LEARNING </b>. <br>
@@ -229,7 +224,7 @@ Lingjing Wang, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/2006.12378)
 </div>
 
-<h2 id="y2022">2022</h2>
+<h2 id="2022">2022</h2>
 
 <div class="publication-item">
 * <b>GP-Aligner: Unsupervised Groupwise Non-Rigid Point Set Registration Based On Optimizable Group Latent Descriptor</b>. <br>
@@ -261,7 +256,7 @@ Xufeng Jiang, Nan Zhou, <b>Xiang Li*</b>. <i>IEEE Geosciences and Remote Sensing
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9721235&tag=1)
 </div>
 
-<h2 id="y2021">2021</h2>
+<h2 id="2021">2021</h2>
 
 <div class="publication-item">
 * <b>Accurate and efficient solution of electromagnetic scattering from randomly rough surface using MoM-SMCG with adaptive quadrature</b>. <br>
@@ -293,7 +288,7 @@ Hao Huang, <b>Xiang Li</b>, Lingjing Wang, Yi Fang. <i>International Conference 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9361998?casa_token=IhdFOUYi5-sAAAAA:q6lizg6LXDTingCDZn36M6QMpN67eIoLe_OMnu9VGEoJmgWEsXdjMYOWocYx6L4lI6OMex5UsQ)
 </div>
 
-<h2 id="y2020">2020</h2>
+<h2 id="2020">2020</h2>
 
 <div class="publication-item">
 * <b>Geo-parcel-based Change Detection Using Opticaland SAR Images in Cloudy and Rainy Areas</b>. <br>
@@ -352,7 +347,7 @@ Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b><i class="icon-envelope-squa
 [[Code]](https://https://github.com/lx709/D-FCN)
 </div>
 
-<h2 id="y2019">2019</h2>
+<h2 id="2019">2019</h2>
 
 <div class="publication-item">
 * <b>PC-Net: Unsupervised Point Correspondence Learning with Neural Networks</b>. <br>
@@ -397,7 +392,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 [[PDF]](https://arxiv.org/abs/1904.01428)
 </div>
 
-<h2 id="y2018">2018</h2>
+<h2 id="2018">2018</h2>
 
 <div class="publication-item">
 * <b>Building-A-Nets: Robust Building Extraction From High-Resolution Remote Sensing Images With Adversarial Networks</b>. <br>
@@ -421,7 +416,7 @@ Lingjing Wang, Jianchun Chen, <b>Xiang Li</b>, Yi Fang. <i>arxiv</i>.<br>
 徐逸之, 姚晓婧, <b>李祥*</b>, 周楠, 胡媛. <i>测绘通报, 2018</i>.<br>
 </div>
 
-<h2 id="y2017">2017</h2>
+<h2 id="2017">2017</h2>
 
 <div class="publication-item">
 * <b>Long short-term memory neural network for air pollutant concentration predictions: Method development and evaluation</b>. <br>
@@ -435,7 +430,7 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 [[PDF]](https://www.mdpi.com/2072-4292/9/6/521)
 </div>
 
-<h2 id="y2016">2016</h2>
+<h2 id="2016">2016</h2>
 
 <div class="publication-item">
 * <b>Deep learning architecture for air quality predictions</b>. <br>
@@ -458,7 +453,7 @@ Haifeng Tian, Wang Li, Mingquan Wu, Ni Huang, Guodong Li, <b>Xiang Li</b>, Zheng
 <b>李祥</b> 彭玲, 池天河, 李浩川, 徐逸之. <i>测绘通报, 2016</i>.<br>
 </div>
 
-<h2 id="y2015">2015</h2>
+<h2 id="2015">2015</h2>
 
 <div class="publication-item">
 * <b>A Novel Fuzzy Chinese Address Matching Engine Based on Full-text Search Technology</b>. <br>
@@ -468,26 +463,35 @@ Xiaojing Yao, <b>Xiang Li</b>, Ling Peng, Tianhe Chi. <i>The 5th International C
 </div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener('DOMContentLoaded', function() {
   const yearNav = document.getElementById('yearNav');
   if (!yearNav) return;
 
   const buttons = yearNav.querySelectorAll('button');
   
   buttons.forEach(btn => {
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      // Remove active class from all buttons
       buttons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
+      // Add active class to clicked button
+      this.classList.add('active');
 
-      const target = btn.dataset.target;
+      const target = this.getAttribute('data-target');
+      
       if (target === 'all') {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
       } else {
-        const targetElement = document.getElementById(target);
-        if (targetElement) {
-          const offset = targetElement.offsetTop - 80;
+        const section = document.getElementById(target);
+        if (section) {
+          const yOffset = -100; 
+          const y = section.getBoundingClientRect().top + window.pageYOffset + yOffset;
           window.scrollTo({
-            top: offset,
+            top: y,
             behavior: 'smooth'
           });
         }
@@ -495,24 +499,28 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  // Highlight active year while scrolling
+  // Update active button on scroll
+  const sections = document.querySelectorAll('h2[id]');
   const observerOptions = {
-    rootMargin: '-80px 0px -80% 0px',
+    rootMargin: '-100px 0px -50% 0px',
     threshold: 0
   };
 
-  const observer = new IntersectionObserver(entries => {
+  const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         const id = entry.target.id;
         buttons.forEach(btn => {
-          btn.classList.toggle('active', btn.dataset.target === id);
+          if (btn.getAttribute('data-target') === id) {
+            buttons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+          }
         });
       }
     });
   }, observerOptions);
 
-  document.querySelectorAll('h2[id^="y"]').forEach(section => observer.observe(section));
+  sections.forEach(section => observer.observe(section));
 });
 </script>
 
