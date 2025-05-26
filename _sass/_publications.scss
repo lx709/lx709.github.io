@@ -8,20 +8,20 @@ html {
 
 .publications {
   position: relative;
+  padding-top: 70px; /* Add space for the fixed navigation */
   min-height: 100vh; /* Ensure enough scrollable content */
 }
 
 .year-nav {
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed; /* Change from sticky to fixed */
   top: 0;
-  background: #fff;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.98); /* Slightly transparent background */
   padding: 1em 0;
   border-bottom: 1px solid #eee;
   z-index: 1000;
-  margin-bottom: 2em;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Add subtle shadow */
 
   &-container {
     display: flex;
@@ -65,7 +65,7 @@ html {
 .publications {
   h2 {
     margin-top: 2em;
-    padding-top: 2em;
+    padding-top: 1em;
     scroll-margin-top: 100px;
     scroll-snap-margin-top: 100px; /* Fallback for older Safari */
     position: relative;
