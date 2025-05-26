@@ -6,76 +6,114 @@ author_profile: true
 
 [# denotes equal contribution, * denotes corresponding author]
 
-<!-- somewhere near the top of your page/template -->
 <style>
   html { scroll-behavior: smooth; }
 
-  /* year-nav container */
   .year-nav {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 1em 0;
+    border-bottom: 1px solid #eee;
+    z-index: 1000;
+    margin-bottom: 2em;
+  }
+
+  .year-nav-container {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5em;
-    margin: 1em 0;
+    justify-content: center;
   }
+
   .year-nav button {
     background: white;
-    border: 2px solid #ddd;
+    border: 2px solid #2a7ae2;
     border-radius: 4px;
     padding: 0.5em 1em;
     cursor: pointer;
     font-size: 0.9rem;
+    transition: all 0.3s ease;
   }
+
+  .year-nav button:hover {
+    background: #2a7ae2;
+    color: white;
+  }
+
   .year-nav button.active {
-    border-color: #f36;
-    color: #f36;
+    background: #2a7ae2;
+    color: white;
+  }
+
+  h2[id^="y"] {
+    scroll-margin-top: 80px;
   }
 </style>
 
-<script>
-  const buttons = document.querySelectorAll('#yearNav button');
-  const sections = Array.from(document.querySelectorAll('h2[id^="y"]'));
+<div class="year-nav">
+  <div class="year-nav-container" id="yearNav">
+    <button data-target="all" class="active">ALL</button>
+    <button data-target="y2024">2024</button>
+    <button data-target="y2023">2023</button>
+    <button data-target="y2022">2022</button>
+    <button data-target="y2021">2021</button>
+  </div>
+</div>
 
-  buttons.forEach(btn =>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const yearNav = document.getElementById('yearNav');
+  const buttons = yearNav.querySelectorAll('button');
+  const sections = Array.from(document.querySelectorAll('h2')).filter(h2 => h2.textContent.match(/^\d{4}/));
+  
+  // Add IDs to year headings if they don't exist
+  sections.forEach(section => {
+    const year = section.textContent.trim();
+    if (!section.id) {
+      section.id = 'y' + year;
+    }
+  });
+
+  buttons.forEach(btn => {
     btn.addEventListener('click', () => {
-      // remove .active on all
+      // Remove active class from all buttons
       buttons.forEach(b => b.classList.remove('active'));
+      // Add active class to clicked button
       btn.classList.add('active');
 
       const target = btn.dataset.target;
       if (target === 'all') {
-        // scroll to top
         window.scrollTo({ top: 0, behavior: 'smooth' });
       } else {
-        // find that section and scroll
-        document.getElementById(target)
-                .scrollIntoView({ behavior: 'smooth' });
-      }
-    })
-  );
-
-  // Optional: as you scroll, auto-highlight the current year
-  const io = new IntersectionObserver((entries) => {
-    entries.forEach(e => {
-      if (e.isIntersecting) {
-        buttons.forEach(b => b.classList.toggle(
-          'active',
-          b.dataset.target === e.target.id
-        ));
+        const targetElement = document.getElementById(target);
+        if (targetElement) {
+          targetElement.scrollIntoView({ behavior: 'smooth' });
+        }
       }
     });
-  }, { rootMargin: '0px 0px -80% 0px' });
+  });
 
-  sections.forEach(sec => io.observe(sec));
+  // Highlight active year while scrolling
+  const observerOptions = {
+    rootMargin: '-80px 0px -80% 0px',
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.id;
+        buttons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.target === id);
+        });
+      }
+    });
+  }, observerOptions);
+
+  sections.forEach(section => observer.observe(section));
+});
 </script>
-
-<div class="year-nav" id="yearNav">
-  <button data-target="all" class="active">ALL</button>
-  <button data-target="y2025">2025</button>
-  <button data-target="y2024">2024</button>
-  <button data-target="y2023">2023</button>
-  <button data-target="y2022">2022</button>
-  <!-- …etc… -->
-</div>
 
 ---
 ## 2024
