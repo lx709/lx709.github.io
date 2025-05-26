@@ -47,7 +47,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
   <h3> MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.</h3>
   Deyao Zhu, Jun Chen, Xiaoqian Shen, <b>Xiang Li</b>, Mohamed Elhoseiny.
   <br>
-  <em>arxiv</em>, 2023
+  <em>ICLR</em>, 2023
   <br>
   <div>
     <a href="https://minigpt-4.github.io/">[project]</a>
@@ -107,7 +107,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
   <h3>RSGPT: A Remote Sensing Vision Language Model and Benchmark.</h3>
   Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>.
   <br>
-  <em>arxiv</em>, 2023
+  <em>ISPRS JPRS</em>, 2023
   <br>
   <div>
     <a href="https://github.com/Lavender105/RSGPT">[project]</a>
@@ -180,7 +180,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 </tr> 
 
 
-
+<!-- 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/tpnet.png" height="100%" width="100%" style="border-style: none">
@@ -199,7 +199,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
     <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
   </div>  
 </td>
-</tr> 
+</tr>  -->
 
 
 <tr>
