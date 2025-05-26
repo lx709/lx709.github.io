@@ -2,26 +2,41 @@ document.addEventListener('DOMContentLoaded', function() {
   function findSections() {
     // Try different selectors in order of preference
     const selectors = [
-      '.publications h2[id]',
-      '.publications-content h2[id]',
-      '.publications h2',
-      '.publications-content h2',
-      'h2[id]'
+      '.publications-content h2[id]',  // First try sections with IDs in the content div
+      '.publications h2[id]',          // Then try sections with IDs in the main div
+      '.publications-content h2',      // Then any h2s in the content div
+      '.publications h2',              // Then any h2s in the main div
+      'h2[id]'                        // Finally, any h2 with an ID
     ];
     
     for (const selector of selectors) {
       const sections = document.querySelectorAll(selector);
       if (sections.length > 0) {
-        console.log('Found sections using selector:', selector);
+        console.log('Found sections using selector:', selector, sections.length);
         return sections;
       }
+    }
+    
+    // If no sections found, try to fix the structure
+    const h2s = document.querySelectorAll('h2');
+    if (h2s.length > 0) {
+      console.log('Found h2s without proper structure, attempting to fix...');
+      h2s.forEach(h2 => {
+        const yearMatch = h2.textContent.trim().match(/^(\d{4})/);
+        if (yearMatch && !h2.id) {
+          h2.id = yearMatch[1];
+          console.log('Added ID to section:', yearMatch[1]);
+        }
+      });
+      // Try one more time with the fixed structure
+      return document.querySelectorAll('h2[id]');
     }
     
     console.warn('No sections found with any selector');
     return [];
   }
 
-  // Wait a short moment for Jekyll to finish processing
+  // Wait for Jekyll processing
   setTimeout(() => {
     const yearNav = document.getElementById('yearNav');
     if (!yearNav) {
@@ -32,18 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const buttons = yearNav.querySelectorAll('button');
     const sections = findSections();
     const SCROLL_OFFSET = 100;
-    
-    if (sections.length === 0) {
-      console.warn('No sections found in the document');
-      // Try to create IDs for sections that don't have them
-      document.querySelectorAll('h2').forEach(h2 => {
-        if (!h2.id && h2.textContent.match(/^\d{4}/)) {
-          const year = h2.textContent.match(/^\d{4}/)[0];
-          h2.id = year;
-          console.log('Added ID to section:', year);
-        }
-      });
-    }
     
     // Debug log all sections and their IDs
     console.log('All sections:', Array.from(sections).map(s => ({
@@ -83,24 +86,12 @@ document.addEventListener('DOMContentLoaded', function() {
         // Try different ways to find the section
         let section = null;
         
-        // Function to find section by year
-        const findSectionByYear = (year) => {
-          // Try multiple methods to find the section
-          return (
-            document.getElementById(year) ||
-            document.querySelector(`h2[id="${year}"]`) ||
-            Array.from(document.querySelectorAll('h2')).find(h2 => 
-              h2.textContent.trim().startsWith(year)
-            )
-          );
-        };
-        
         if (target === 'before-2020') {
-          section = findSectionByYear('2019');
-          console.log('Looking for before-2020 section:', section);
+          section = document.getElementById('2019') || 
+                   Array.from(sections).find(s => s.textContent.trim().startsWith('2019'));
         } else {
-          section = findSectionByYear(target);
-          console.log('Found section for target:', target, section);
+          section = document.getElementById(target) || 
+                   Array.from(sections).find(s => s.textContent.trim().startsWith(target));
         }
         
         if (section) {
@@ -118,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
           console.warn('Section not found:', {
             target: target,
-            availableSections: Array.from(document.querySelectorAll('h2')).map(s => ({
+            availableSections: Array.from(sections).map(s => ({
               id: s.id,
               text: s.textContent.trim()
             }))
@@ -202,5 +193,5 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Set initial active button
     updateActiveButton();
-  }, 100);
+  }, 200); // Increased timeout to ensure Jekyll processing is complete
 }); 
