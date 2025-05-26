@@ -8,12 +8,23 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const buttons = yearNav.querySelectorAll('button');
-    const sections = document.querySelectorAll('.publications h2[id]');
+    // More specific selector to ensure we're getting the right sections
+    const sections = document.querySelectorAll('.publications h2');
     const SCROLL_OFFSET = 100;
     
-    // Debug log available sections
-    console.log('Available sections:', Array.from(sections).map(s => ({id: s.id, text: s.textContent})));
-    console.log('Available buttons:', Array.from(buttons).map(b => ({target: b.getAttribute('data-target'), text: b.textContent})));
+    // Debug log all sections and their IDs
+    console.log('All sections:', Array.from(sections).map(s => ({
+      id: s.id,
+      text: s.textContent.trim(),
+      hasId: s.hasAttribute('id'),
+      actualId: s.getAttribute('id')
+    })));
+    
+    // Debug log all buttons and their targets
+    console.log('All buttons:', Array.from(buttons).map(b => ({
+      target: b.getAttribute('data-target'),
+      text: b.textContent.trim()
+    })));
     
     buttons.forEach(btn => {
       btn.addEventListener('click', function(e) {
@@ -23,7 +34,10 @@ document.addEventListener('DOMContentLoaded', function() {
         this.classList.add('active');
 
         const target = this.getAttribute('data-target');
-        console.log('Clicked target:', target);
+        console.log('Button clicked:', {
+          target: target,
+          buttonText: this.textContent.trim()
+        });
         
         if (target === 'all') {
           window.scrollTo({
@@ -37,33 +51,44 @@ document.addEventListener('DOMContentLoaded', function() {
         let section = null;
         if (target === 'before-2020') {
           section = document.getElementById('2019');
+          console.log('Looking for before-2020 section:', section);
         } else {
           // First try direct ID
           section = document.getElementById(target);
+          console.log('Found section by ID:', section);
           
           // If not found, try finding h2 with matching text
           if (!section) {
-            section = Array.from(document.querySelectorAll('.publications h2')).find(h2 => 
-              h2.textContent.trim().startsWith(target)
-            );
-          }
-          
-          // If still not found, try finding any element containing the year
-          if (!section) {
-            section = document.querySelector(`[id="${target}"]`);
+            section = Array.from(sections).find(h2 => {
+              const match = h2.textContent.trim().startsWith(target);
+              console.log('Checking section:', {
+                text: h2.textContent.trim(),
+                target: target,
+                matches: match
+              });
+              return match;
+            });
+            console.log('Found section by text:', section);
           }
         }
         
-        console.log('Found section:', section);
-        
         if (section) {
+          console.log('Scrolling to section:', {
+            id: section.id,
+            text: section.textContent.trim(),
+            offsetTop: section.offsetTop
+          });
+          
           const offset = section.getBoundingClientRect().top + window.pageYOffset - SCROLL_OFFSET;
           window.scrollTo({
             top: offset,
             behavior: 'smooth'
           });
         } else {
-          console.warn('Section not found for target:', target);
+          console.warn('Section not found:', {
+            target: target,
+            availableSections: Array.from(sections).map(s => s.id)
+          });
         }
       });
     });
