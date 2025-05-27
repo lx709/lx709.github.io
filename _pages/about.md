@@ -158,7 +158,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 </tr> 
 
 
-
+<!-- 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/dancenet.png" height="100%" width="100%" style="border-style: none">
@@ -177,7 +177,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
     <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
   </div>  
 </td>
-</tr> 
+</tr>  -->
 
 
 <!-- 
