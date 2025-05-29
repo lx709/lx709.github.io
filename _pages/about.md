@@ -161,48 +161,6 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 </tr> 
 
 
-<!-- 
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/dancenet.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Density-Aware Convolutional Networks with Context Encoding for Airborne LiDAR Point Cloud Classification.
-  </h3>
-  <b>Xiang Li</b>, Lingjing Wang, Mingyang Wang, Congcong Wen, Nan Zhou, Yi Fang.
-  <br>
-  <em>ISPRS JPRS</em>, 2021
-  <br>
-  <div>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
-    <a href="https://arxiv.org/abs/1910.05909">[paper]</a>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V">[code]</a> -->
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr>  -->
-
-
-<!-- 
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/tpnet.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>Topology Constrained Shape Correspondence.
-  </h3>
-  <b>Xiang Li<sup>#</sup></b>, Congcong Wen<sup>#</sup>, Lingjing Wang, Yi Fang.
-  <br>
-  <em>TVCG</em>, 2020
-  <br>
-  <div>
-    <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
-    <a href="https://ieeexplore.ieee.org/document/9091324">[paper]</a>
-    <a href="https://github.com/lixiang-ucas/TP-Net">[code]</a>
-    <!-- <a href="https://huggingface.co/spaces/Vision-CAIR/minigpt4">[huggingface demo]</a> -->
-  </div>  
-</td>
-</tr>  -->
 
 
 <tr>
