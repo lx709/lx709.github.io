@@ -21,6 +21,7 @@ author_profile: true
   </div>
 
   <div class="publications-content" markdown="1">
+
 ## 2025
 **REOBench: Benchmarking Robustness of Earth Observation Foundation Models**<br>
 **Xiang Li**, Yong Tao, Siyuan Zhang, Siwei Liu, Zhitong Xiong, Chunbo Luo, Lu Liu, Mykola Pechenizkiy, Xiao Xiang Zhu, Tianjin Huang. *arXiv*<br>
@@ -30,9 +31,15 @@ author_profile: true
 Congcong Wen, Yiting Lin, Xiaokang Qu, Nan Li, Yong Liao, Hui Lin, **Xiang Li**. *arXiv*<br>
 [PDF](https://arxiv.org/pdf/2504.04988)
 
+**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**<br>
+Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, Tianjing Huang, Guisong Xia,**Xiang Li***. *TGRS 2025*<br>
+[PDF]([https://arxiv.org/pdf/2502.17055](https://arxiv.org/abs/2403.13375))
+
+
 **Stable-SPAM: How to Train in 4-Bit More Stably than 16-Bit Adam**<br>
 Tianjin Huang, Haotian Hu, Zhenyu Zhang, Gaojie Jin, **Xiang Li**, Li Shen, Tianlong Chen, Lu Liu, Qingsong Wen, Zhangyang Wang, Shiwei Liu. *arXiv*<br>
 [PDF](https://arxiv.org/pdf/2502.17055)
+
 
 ## 2024
 **Geoground: A unified large vision-language model for remote sensing visual grounding**<br>
