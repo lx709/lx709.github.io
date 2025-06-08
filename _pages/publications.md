@@ -55,7 +55,7 @@ Mahmoud Ahmed, **Xiang Li**, Arpit Prajapati, Mohamed Elhoseiny. *NeruIPS 2024*<
 [PDF](https://openreview.net/pdf?id=L4yLhMjCOR)
 
 **Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**<br>
-Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, **Xiang Li\***. *arxiv*<br>
+Jiawei Zhou, Wuzhou Li, Yi Cao, Hongtao Cai, **Xiang Li\***. *IEEE Transactions on Geoscience and Remote Sensing, 2024*<br>
 [PDF](https://arxiv.org/abs/2405.11293)
 
 **InfRS: Incremental Few-Shot Object Detection in Remote Sensing Images**<br>
