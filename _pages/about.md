@@ -16,6 +16,8 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 🔥Hiring PhD Students and Interns: Welcome enthusiastic students passionate about computer vision, multimodal large language models, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+* [08/2025] I received the IEEE GRSS Early Career Award 2025.
+* [08/2025] [3DCoMPaT++](https://arxiv.org/abs/2310.18511) was accepted for publication at IEEE TPAMI.
 * [07/2025] One paper on visual grounding [GeoGound](https://github.com/VisionXLab/GeoGround) was accepted for publication at ICCV 2025 SEA workshop.
 * [06/2025] One paper on few-shot oriented object detection ([FOMC](https://ieeexplore.ieee.org/document/11030667/)) was accepted by IEEE TGRS. 
 * [06/2025] I joined ELLIS, a pan-European AI network of excellence. 
