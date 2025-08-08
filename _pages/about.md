@@ -214,6 +214,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 
 Honors and Awards
 ======
+* IEEE GRSS Early Career Award 2025
 * Outstanding Reviewer for ICCV 2021.
 * Postdoc Non-travel Award, NYUAD 2020 & 2021.
 * National Scholarship, University of Chinese Academy of Sciences, 2018
