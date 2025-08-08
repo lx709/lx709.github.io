@@ -18,7 +18,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 🔥 News
 * [08/2025] I received the IEEE GRSS Early Career Award 2025.
 * [08/2025] [3DCoMPaT++](https://arxiv.org/abs/2310.18511) was accepted for publication at IEEE TPAMI.
-* I am honored to serve as the Guest Editor for the Special Issue titled "Advancing Geospatial Image Perception and Understanding Under Challenging Real-World Conditions" in the journal Geo-spatial Information Science.
+* [07/2025] I am honored to serve as the Guest Editor for the Special Issue titled "Advancing Geospatial Image Perception and Understanding Under Challenging Real-World Conditions" in the journal Geo-spatial Information Science.
 * [07/2025] One paper on visual grounding [GeoGound](https://github.com/VisionXLab/GeoGround) was accepted for publication at ICCV 2025 SEA workshop.
 * [06/2025] One paper on few-shot oriented object detection ([FOMC](https://ieeexplore.ieee.org/document/11030667/)) was accepted by IEEE TGRS. 
 * [06/2025] I joined ELLIS, a pan-European AI network of excellence. 
