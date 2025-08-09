@@ -88,6 +88,25 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/rsgpt.png" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>RSGPT: A Remote Sensing Vision Language Model and Benchmark.</h3>
+  Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>.
+  <br>
+  <em>ISPRS JPRS</em>, 2025 (arXiv 2023)
+  <br>
+  <div>
+    <a href="https://github.com/Lavender105/RSGPT">[project]</a>
+    <a href="https://arxiv.org/abs/2307.15266">[paper]</a>
+    <a href="https://github.com/Lavender105/RSGPT">[code]</a>
+  </div>  
+</td>
+</tr>  
+
+
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/rsvlm.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
@@ -107,23 +126,6 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the Department of Computer S
 </tr> 
 
 
-<tr>
-<td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/rsgpt.png" height="100%" width="100%" style="border-style: none">
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle">  
-  <h3>RSGPT: A Remote Sensing Vision Language Model and Benchmark.</h3>
-  Yuan Hu, Jianlong Yuan, Congcong Wen, Xiaonan Lu, <b>Xiang Li*</b>.
-  <br>
-  <em>ISPRS JPRS</em>, 2025 (arXiv 2023)
-  <br>
-  <div>
-    <a href="https://github.com/Lavender105/RSGPT">[project]</a>
-    <a href="https://arxiv.org/abs/2307.15266">[paper]</a>
-    <a href="https://github.com/Lavender105/RSGPT">[code]</a>
-  </div>  
-</td>
-</tr>  
 
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
