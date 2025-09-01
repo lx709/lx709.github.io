@@ -23,6 +23,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the School of Computer Scien
 * [06/2025] I joined ELLIS, a pan-European AI network of excellence. 
 * [05/2025] We released [REOBench](https://github.com/lx709/REOBench): A benchmark for evaluating the robustness of Earth observation foundation models.
 * [05/2025] I gave a seminar talk on "Large Vision Language Models in Remote Sensing: Datasets and Models" at the Data Assimilation Research Center.
+* [04/2025] Stable-SPAM was accepted for publication at ICLR 2025 Workshop SCOPE.
 * [03/2025] [RSGPT](https://github.com/Lavender105/RSGPT) was accepted for publication at ISPRS JPRS. RSGPT is the first attempt at GPT-based MLLMs in remote sensing.
 * [03/2025] [Stable-SPAM](https://arxiv.org/abs/2502.17055) was accepted for publication at COLM. 
 * [12/2024] Opening position: One fully funded PhD position in AI for Bioversity (closed).
