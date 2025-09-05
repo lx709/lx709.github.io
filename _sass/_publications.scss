@@ -10,6 +10,8 @@ body {
   position: relative; /* Ensure proper stacking context */
 }
 
+a { text-decoration: none; }
+
 /* Ensure the page-content wrapper doesn't interfere with fixed positioning */
 .page__content {
   position: static !important;
