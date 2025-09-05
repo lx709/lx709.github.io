@@ -14,6 +14,7 @@ Dr. Xiang Li is a Lecturer (Assistant Professor) in the School of Computer Scien
 🔥Hiring PhD students and interns: Welcome enthusiastic students passionate about multimodal LLMs, 3D vision, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+* [09/2025] I will serve as an Area Chair of ICLR 2026.
 * [09/2025] I joined the University of Bristol as a Lecturer in Computer Vision.
 * [08/2025] I received the **IEEE GRSS Early Career Award** 2025.
 * [08/2025] [3DCoMPaT++](https://arxiv.org/abs/2310.18511) was accepted for publication at **IEEE TPAMI**.
