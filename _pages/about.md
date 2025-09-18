@@ -14,6 +14,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 🔥Hiring PhD students and interns: Welcome enthusiastic students passionate about multimodal LLMs, 3D vision, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+* [09/2025] [**REOBench**](https://github.com/lx709/REOBench) was accepted for publication at NeurIPS 2025 Datasets & Benchmarks Track.
 * [09/2025] I will serve as an Area Chair of ICLR 2026.
 * [09/2025] I joined the University of Bristol as a Lecturer in Computer Vision.
 * [08/2025] I received the **IEEE GRSS Early Career Award** 2025.
