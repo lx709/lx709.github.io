@@ -17,7 +17,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 * [09/2025] [**REOBench**](https://github.com/lx709/REOBench) was accepted for publication at NeurIPS 2025 Datasets & Benchmarks Track.
 * [09/2025] I will serve as an Area Chair of ICLR 2026.
 * [09/2025] I joined the University of Bristol as a Lecturer in Computer Vision.
-* [08/2025] I received the **IEEE GRSS Early Career Award** 2025.
+* [08/2025] I received the **[IEEE GRSS Early Career Award](https://www.grss-ieee.org/about/history/grss-past-awards/)** 2025.
 * [08/2025] [3DCoMPaT++](https://arxiv.org/abs/2310.18511) was accepted for publication at **IEEE TPAMI**.
 * [07/2025] I am honored to serve as the Guest Editor for the Special Issue titled "Advancing Geospatial Image Perception and Understanding Under Challenging Real-World Conditions" in the journal Geo-spatial Information Science (**GSIS**).
 * [07/2025] One paper on visual grounding [GeoGound](https://github.com/VisionXLab/GeoGround) was accepted for publication at **ICCV 2025 SEA workshop**.
