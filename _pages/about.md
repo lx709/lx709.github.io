@@ -14,6 +14,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 🔥Hiring PhD students and interns: Welcome enthusiastic students passionate about multimodal LLMs, 3D vision, and remote sensing to apply for PhD positions and internships.
 
 🔥 News
+<div class="news-section" markdown="1">
 * [10/2025] We released [**Geo-R1**](https://geo-r1.github.io/), a reasoning-centric MLLM for aerial imagery.
 * [09/2025] [**REOBench**](https://github.com/lx709/REOBench) was accepted for publication at NeurIPS 2025 Datasets & Benchmarks Track.
 * [09/2025] I will serve as an Area Chair of ICLR 2026.
@@ -44,6 +45,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 * [07/2023] We released [**RSGPT**](https://github.com/Lavender105/RSGPT), the first GPT-based multimodal LLM in remote sensing.
 * [05/2023] We released the survey paper [**Vision-Language Models in Remote Sensing**](https://arxiv.org/abs/2305.05726).
 * [04/2023] We released [**MiniGPT-4**](https://minigpt-4.github.io/).
+</div>
 
 <h2><span>Selected Publications</span></h2>
 [# denotes equal contribution, * denotes corresponding author]
