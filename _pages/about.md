@@ -25,7 +25,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 <li>[07/2025] I am honored to serve as the Guest Editor for the Special Issue titled "Advancing Geospatial Image Perception and Understanding Under Challenging Real-World Conditions" in the journal Geo-spatial Information Science (<strong>GSIS</strong>).</li>
 <li>[07/2025] One paper on visual grounding <a href="https://github.com/VisionXLab/GeoGround">GeoGound</a> was accepted for publication at <strong>ICCV 2025 SEA workshop</strong>.</li>
 <li>[06/2025] One paper on few-shot oriented object detection (<a href="https://ieeexplore.ieee.org/document/11030667/">FOMC</a>) was accepted by <strong>IEEE TGRS</strong>.</li>
-<li>[06/2025] I joined ELLIS, a pan-European AI network of excellence.</li>
+<li>[06/2025] I joined <a href="https://ellis.eu"><strong>ELLIS</strong></a>, a pan-European AI network of excellence.</li>
 <li>[05/2025] We released <a href="https://github.com/lx709/REOBench"><strong>REOBench</strong></a>: A benchmark for evaluating the robustness of Earth observation foundation models.</li>
 <li>[05/2025] I gave a seminar talk on "Large Vision Language Models in Remote Sensing: Datasets and Models" at the <strong>Data Assimilation Research Center</strong>.</li>
 <li>[04/2025] Stable-SPAM was accepted for publication at <strong>ICLR 2025 Workshop SCOPE</strong>.</li>
@@ -38,14 +38,14 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 <li>[07/2024] I will serve as the Guest Editor for the special issue "<a href="https://www.grss-ieee.org/wp-content/uploads/2024/10/call-for-papers_GRSM_SI_VLM.pdf">Vision-Language Models in Remote Sensing</a>" at <strong>IEEE GRSM</strong>.</li>
 <li>[06/2024] I'm co-organizing the <a href="https://3dcompat-dataset.org/workshop/C3DV24/">C3DV 2024</a>: 2nd Workshop on Compositional 3D Vision at CVPR 2024.</li>
 <li>[05/2024] One paper on few-shot object detection (<a href="https://ieeexplore.ieee.org/document/10706935/">InfRS</a>) was accepted by <strong>IEEE TGRS</strong>.</li>
-<li>[05/2024] One paper on CO<sub>2</sub> mapping was published at <strong>JAG</strong>.</li>
+<li>[05/2024] Our paper on LSTM-based method for time-series CO<sub>2</sub> mapping was published at <strong>JAG</strong>.</li>
 <li>[04/2024] Our survey paper <a href="https://ieeexplore.ieee.org/document/10506064">Vision-Language Models in Remote Sensing</a> was published at IEEE GRSM.</li>
 <li>[03/2024] I gave a talk "AI for Earth Observation" at Prof. <a href="https://www.kaust.edu.sa/en/study/faculty/matthew-mccabe">Matthew McCabe</a>'s lab.</li>
 <li>[11/2023] <a href="https://github.com/lx709/RS-CLIP"><strong>RS-CLIP</strong></a> was published at <strong>JAG</strong>.</li>
-<li>[10/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-v2</strong></a>.</li>
+<li>[10/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-v2</strong></a>, an enhanced version of MiniGPT-4 that supports multiple vision-langauge tasks..</li>
 <li>[07/2023] We released <a href="https://github.com/Lavender105/RSGPT"><strong>RSGPT</strong></a>, the first GPT-based multimodal LLM in remote sensing.</li>
 <li>[05/2023] We released the survey paper <a href="https://arxiv.org/abs/2305.05726"><strong>Vision-Language Models in Remote Sensing</strong></a>.</li>
-<li>[04/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-4</strong></a>.</li>
+<li>[04/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-4</strong></a>, the first open-source MLLM replicates advanced multi-modal abilities demonstrated by GPT-4V.</li>
 </ul>
 </div>
 
