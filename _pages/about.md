@@ -29,7 +29,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 <li>[05/2025] We released <a href="https://github.com/lx709/REOBench"><strong>REOBench</strong></a>: A benchmark for evaluating the robustness of Earth observation foundation models.</li>
 <li>[05/2025] I gave a seminar talk on "Large Vision Language Models in Remote Sensing: Datasets and Models" at the <strong>Data Assimilation Research Center</strong>.</li>
 <li>[04/2025] Stable-SPAM was accepted for publication at <strong>ICLR 2025 Workshop SCOPE</strong>.</li>
-<li>[03/2025] <a href="https://github.com/Lavender105/RSGPT"><strong>RSGPT</strong></a> was accepted for publication at <strong>ISPRS JPRS</strong>. RSGPT is the first attempt at GPT-based MLLMs in remote sensing.</li>
+<li>[03/2025] <a href="https://github.com/Lavender105/RSGPT"><strong>RSGPT</strong></a> was accepted for publication at <strong>ISPRS J.</strong>. RSGPT is the first attempt at GPT-based MLLMs in remote sensing.</li>
 <li>[03/2025] <a href="https://arxiv.org/abs/2502.17055"><strong>Stable-SPAM</strong></a> was accepted for publication at <strong>COLM</strong>.</li>
 <li>[12/2024] Opening position: One fully funded PhD position in AI for Bioversity (closed).</li>
 <li>[10/2024] I joined the University of Reading as a Lecturer in Computer Science.</li>
@@ -42,7 +42,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 <li>[04/2024] Our survey paper <a href="https://ieeexplore.ieee.org/document/10506064">Vision-Language Models in Remote Sensing</a> was published at IEEE GRSM.</li>
 <li>[03/2024] I gave a talk "AI for Earth Observation" at Prof. <a href="https://www.kaust.edu.sa/en/study/faculty/matthew-mccabe">Matthew McCabe</a>'s lab.</li>
 <li>[11/2023] <a href="https://github.com/lx709/RS-CLIP"><strong>RS-CLIP</strong></a> was published at <strong>JAG</strong>.</li>
-<li>[10/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-v2</strong></a>, an enhanced version of MiniGPT-4 that supports multiple vision-langauge tasks..</li>
+<li>[10/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-v2</strong></a>, an enhanced version of MiniGPT-4 that supports multiple vision-language tasks.</li>
 <li>[07/2023] We released <a href="https://github.com/Lavender105/RSGPT"><strong>RSGPT</strong></a>, the first GPT-based multimodal LLM in remote sensing.</li>
 <li>[05/2023] We released the survey paper <a href="https://arxiv.org/abs/2305.05726"><strong>Vision-Language Models in Remote Sensing</strong></a>.</li>
 <li>[04/2023] We released <a href="https://minigpt-4.github.io/"><strong>MiniGPT-4</strong></a>, the first open-source MLLM replicates advanced multi-modal abilities demonstrated by GPT-4V.</li>
@@ -207,7 +207,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
   </h3>
   Congcong Wen, Lina Yang, Ling Peng, <b>Xiang Li*</b>
   <br>
-  <em>ISPRS JPRS</em>, 2020
+  <em>ISPRS J</em>, 2020
   <br>
   <div>
     <!-- <a href="https://github.com/xiaoqian-shen/MoStGAN-V/">[project]</a> -->
