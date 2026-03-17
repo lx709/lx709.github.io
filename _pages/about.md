@@ -16,6 +16,9 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 🔥 News
 <div class="news-section">
 <ul>
+<li>[02/2026] One paper accepted for publication at CVPR 2026.</li>
+<li>[02/2026] <a href="https://arxiv.org/pdf/2602.18888"><strong>RS-RAG</strong></a> was accepted for publication at IEEE GRSM.</li>
+<li>[01/2026] One paper accepted for publication at ICLR 2026.</li>
 <li>[10/2025] We released <a href="https://geo-r1.github.io/"><strong>Geo-R1</strong></a>, a reasoning-centric MLLM for aerial imagery.</li>
 <li>[09/2025] <a href="https://github.com/lx709/REOBench"><strong>REOBench</strong></a> was accepted for publication at NeurIPS 2025 Datasets & Benchmarks Track.</li>
 <li>[09/2025] I will serve as an Area Chair of ICLR 2026.</li>
