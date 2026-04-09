@@ -16,6 +16,7 @@ I am a Lecturer (Assistant Professor) in the School of Computer Science at the U
 🔥 News
 <div class="news-section">
 <ul>
+<li>[04/2026] [Geo-R1](https://arxiv.org/abs/2509.21976) was accepted for publication at ISPRS J.</li>
 <li>[02/2026] One paper accepted for publication at CVPR 2026.</li>
 <li>[02/2026] <a href="https://arxiv.org/pdf/2602.18888"><strong>RS-RAG</strong></a> was accepted for publication at IEEE GRSM.</li>
 <li>[01/2026] One paper accepted for publication at ICLR 2026.</li>
